@@ -1,0 +1,1911 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<horoscopo>
+    <signo>
+        <nome>aries</nome>
+        <exibicao>Áries</exibicao>
+        <dia numero="1">
+            <previsao>Sua energia ariana impulsiona grandes conquistas neste dia; no trabalho, uma abordagem colaborativa trará resultados acima do esperado. Reserve a noite para descansar a mente e celebrar cada avanço.</previsao>
+            <cor>Vermelho</cor>
+            <numero_base>12</numero_base>
+        </dia>
+        <dia numero="2">
+            <previsao>Marte fortalece sua coragem e iniciativa logo pela manhã; em projetos pessoais, dar o primeiro passo fará toda a diferença agora. Sorria para as boas surpresas que o destino prepara no seu caminho.</previsao>
+            <cor>Verde Esmeralda</cor>
+            <numero_base>23</numero_base>
+        </dia>
+        <dia numero="3">
+            <previsao>O espírito de liderança abre portas importantes hoje; nos estudos e leituras, um novo conhecimento despertará boas ideias. Aproveite o fim do dia para renovar as energias ao lado de quem faz bem.</previsao>
+            <cor>Amarelo Solar</cor>
+            <numero_base>34</numero_base>
+        </dia>
+        <dia numero="4">
+            <previsao>Um impulso criativo renova seu entusiasmo e determinação; na rotina diária, pequenas mudanças de hábito aumentarão sua disposição. Mantenha o equilíbrio entre razão e emoção para fechar o dia em paz.</previsao>
+            <cor>Branco Pérola</cor>
+            <numero_base>45</numero_base>
+        </dia>
+        <dia numero="5">
+            <previsao>Sua força interior destaca você em qualquer desafio; nas finanças, vale organizar prioridades antes de assumir novos compromissos. Um momento de silêncio e reflexão trará a clareza que você procura.</previsao>
+            <cor>Dourado</cor>
+            <numero_base>56</numero_base>
+        </dia>
+        <dia numero="6">
+            <previsao>O dinamismo do seu signo favorece decisões rápidas e certeiras; no convívio familiar, gestos simples de atenção fortalecerão os laços. Confie no tempo certo das coisas e mantenha o coração tranquilo.</previsao>
+            <cor>Azul Marinho</cor>
+            <numero_base>67</numero_base>
+        </dia>
+        <dia numero="7">
+            <previsao>Novos horizontes se abrem para sua ousadia característica; nas parcerias profissionais, a transparência garantirá acordos duradouros. Cultive a gratidão pelas pequenas vitórias alcançadas ao longo do dia.</previsao>
+            <cor>Rosa Quartzo</cor>
+            <numero_base>78</numero_base>
+        </dia>
+        <dia numero="8">
+            <previsao>Sua energia ariana impulsiona grandes conquistas neste dia; em negociações importantes, mantenha a calma e confie nos seus argumentos. Evite dispersões e concentre sua força no que realmente importa.</previsao>
+            <cor>Vinho</cor>
+            <numero_base>89</numero_base>
+        </dia>
+        <dia numero="9">
+            <previsao>Marte fortalece sua coragem e iniciativa logo pela manhã; nos relacionamentos, uma conversa sincera esclarecerá antigos mal-entendidos. Reserve a noite para descansar a mente e celebrar cada avanço.</previsao>
+            <cor>Roxo Lavanda</cor>
+            <numero_base>1</numero_base>
+        </dia>
+        <dia numero="10">
+            <previsao>O espírito de liderança abre portas importantes hoje; na carreira, seu talento será notado por alguém de grande influência. Sorria para as boas surpresas que o destino prepara no seu caminho.</previsao>
+            <cor>Marrom Terra</cor>
+            <numero_base>12</numero_base>
+        </dia>
+        <dia numero="11">
+            <previsao>Um impulso criativo renova seu entusiasmo e determinação; no campo afetivo, demonstrar seus sentimentos aproximará quem você estima. Aproveite o fim do dia para renovar as energias ao lado de quem faz bem.</previsao>
+            <cor>Azul Turquesa</cor>
+            <numero_base>23</numero_base>
+        </dia>
+        <dia numero="12">
+            <previsao>Sua força interior destaca você em qualquer desafio; no trabalho, uma abordagem colaborativa trará resultados acima do esperado. Mantenha o equilíbrio entre razão e emoção para fechar o dia em paz.</previsao>
+            <cor>Lilás</cor>
+            <numero_base>34</numero_base>
+        </dia>
+        <dia numero="13">
+            <previsao>O dinamismo do seu signo favorece decisões rápidas e certeiras; em projetos pessoais, dar o primeiro passo fará toda a diferença agora. Um momento de silêncio e reflexão trará a clareza que você procura.</previsao>
+            <cor>Laranja Âmbar</cor>
+            <numero_base>45</numero_base>
+        </dia>
+        <dia numero="14">
+            <previsao>Novos horizontes se abrem para sua ousadia característica; nos estudos e leituras, um novo conhecimento despertará boas ideias. Confie no tempo certo das coisas e mantenha o coração tranquilo.</previsao>
+            <cor>Prata</cor>
+            <numero_base>56</numero_base>
+        </dia>
+        <dia numero="15">
+            <previsao>Sua energia ariana impulsiona grandes conquistas neste dia; na rotina diária, pequenas mudanças de hábito aumentarão sua disposição. Cultive a gratidão pelas pequenas vitórias alcançadas ao longo do dia.</previsao>
+            <cor>Verde Oliva</cor>
+            <numero_base>67</numero_base>
+        </dia>
+        <dia numero="16">
+            <previsao>Marte fortalece sua coragem e iniciativa logo pela manhã; nas finanças, vale organizar prioridades antes de assumir novos compromissos. Evite dispersões e concentre sua força no que realmente importa.</previsao>
+            <cor>Azul Celeste</cor>
+            <numero_base>78</numero_base>
+        </dia>
+        <dia numero="17">
+            <previsao>O espírito de liderança abre portas importantes hoje; no convívio familiar, gestos simples de atenção fortalecerão os laços. Reserve a noite para descansar a mente e celebrar cada avanço.</previsao>
+            <cor>Coral</cor>
+            <numero_base>89</numero_base>
+        </dia>
+        <dia numero="18">
+            <previsao>Um impulso criativo renova seu entusiasmo e determinação; nas parcerias profissionais, a transparência garantirá acordos duradouros. Sorria para as boas surpresas que o destino prepara no seu caminho.</previsao>
+            <cor>Bege Areia</cor>
+            <numero_base>1</numero_base>
+        </dia>
+        <dia numero="19">
+            <previsao>Sua força interior destaca você em qualquer desafio; em negociações importantes, mantenha a calma e confie nos seus argumentos. Aproveite o fim do dia para renovar as energias ao lado de quem faz bem.</previsao>
+            <cor>Bordô</cor>
+            <numero_base>12</numero_base>
+        </dia>
+        <dia numero="20">
+            <previsao>O dinamismo do seu signo favorece decisões rápidas e certeiras; nos relacionamentos, uma conversa sincera esclarecerá antigos mal-entendidos. Mantenha o equilíbrio entre razão e emoção para fechar o dia em paz.</previsao>
+            <cor>Verde Água</cor>
+            <numero_base>23</numero_base>
+        </dia>
+        <dia numero="21">
+            <previsao>Novos horizontes se abrem para sua ousadia característica; na carreira, seu talento será notado por alguém de grande influência. Um momento de silêncio e reflexão trará a clareza que você procura.</previsao>
+            <cor>Magenta</cor>
+            <numero_base>34</numero_base>
+        </dia>
+        <dia numero="22">
+            <previsao>Sua energia ariana impulsiona grandes conquistas neste dia; no campo afetivo, demonstrar seus sentimentos aproximará quem você estima. Confie no tempo certo das coisas e mantenha o coração tranquilo.</previsao>
+            <cor>Salmão</cor>
+            <numero_base>45</numero_base>
+        </dia>
+        <dia numero="23">
+            <previsao>Marte fortalece sua coragem e iniciativa logo pela manhã; no trabalho, uma abordagem colaborativa trará resultados acima do esperado. Cultive a gratidão pelas pequenas vitórias alcançadas ao longo do dia.</previsao>
+            <cor>Índigo</cor>
+            <numero_base>56</numero_base>
+        </dia>
+        <dia numero="24">
+            <previsao>O espírito de liderança abre portas importantes hoje; em projetos pessoais, dar o primeiro passo fará toda a diferença agora. Evite dispersões e concentre sua força no que realmente importa.</previsao>
+            <cor>Cobre</cor>
+            <numero_base>67</numero_base>
+        </dia>
+        <dia numero="25">
+            <previsao>Um impulso criativo renova seu entusiasmo e determinação; nos estudos e leituras, um novo conhecimento despertará boas ideias. Reserve a noite para descansar a mente e celebrar cada avanço.</previsao>
+            <cor>Amarelo Mostarda</cor>
+            <numero_base>78</numero_base>
+        </dia>
+        <dia numero="26">
+            <previsao>Sua força interior destaca você em qualquer desafio; na rotina diária, pequenas mudanças de hábito aumentarão sua disposição. Sorria para as boas surpresas que o destino prepara no seu caminho.</previsao>
+            <cor>Cinza Grafite</cor>
+            <numero_base>89</numero_base>
+        </dia>
+        <dia numero="27">
+            <previsao>O dinamismo do seu signo favorece decisões rápidas e certeiras; nas finanças, vale organizar prioridades antes de assumir novos compromissos. Aproveite o fim do dia para renovar as energias ao lado de quem faz bem.</previsao>
+            <cor>Violeta</cor>
+            <numero_base>1</numero_base>
+        </dia>
+        <dia numero="28">
+            <previsao>Novos horizontes se abrem para sua ousadia característica; no convívio familiar, gestos simples de atenção fortalecerão os laços. Mantenha o equilíbrio entre razão e emoção para fechar o dia em paz.</previsao>
+            <cor>Azul Royal</cor>
+            <numero_base>12</numero_base>
+        </dia>
+        <dia numero="29">
+            <previsao>Sua energia ariana impulsiona grandes conquistas neste dia; nas parcerias profissionais, a transparência garantirá acordos duradouros. Um momento de silêncio e reflexão trará a clareza que você procura.</previsao>
+            <cor>Verde Menta</cor>
+            <numero_base>23</numero_base>
+        </dia>
+        <dia numero="30">
+            <previsao>Marte fortalece sua coragem e iniciativa logo pela manhã; em negociações importantes, mantenha a calma e confie nos seus argumentos. Confie no tempo certo das coisas e mantenha o coração tranquilo.</previsao>
+            <cor>Terracota</cor>
+            <numero_base>34</numero_base>
+        </dia>
+        <dia numero="31">
+            <previsao>O espírito de liderança abre portas importantes hoje; nos relacionamentos, uma conversa sincera esclarecerá antigos mal-entendidos. Cultive a gratidão pelas pequenas vitórias alcançadas ao longo do dia.</previsao>
+            <cor>Caramelo</cor>
+            <numero_base>45</numero_base>
+        </dia>
+    </signo>
+    <signo>
+        <nome>touro</nome>
+        <exibicao>Touro</exibicao>
+        <dia numero="1">
+            <previsao>Vênus ilumina seu caminho com harmonia, beleza e estabilidade; nos relacionamentos, uma conversa sincera esclarecerá antigos mal-entendidos. Evite dispersões e concentre sua força no que realmente importa.</previsao>
+            <cor>Azul Marinho</cor>
+            <numero_base>43</numero_base>
+        </dia>
+        <dia numero="2">
+            <previsao>Sua persistência começa a gerar frutos concretos e duradouros; na carreira, seu talento será notado por alguém de grande influência. Reserve a noite para descansar a mente e celebrar cada avanço.</previsao>
+            <cor>Rosa Quartzo</cor>
+            <numero_base>54</numero_base>
+        </dia>
+        <dia numero="3">
+            <previsao>O senso prático do seu signo ajuda a consolidar planos importantes; no campo afetivo, demonstrar seus sentimentos aproximará quem você estima. Sorria para as boas surpresas que o destino prepara no seu caminho.</previsao>
+            <cor>Vinho</cor>
+            <numero_base>65</numero_base>
+        </dia>
+        <dia numero="4">
+            <previsao>Momento propício para valorizar o conforto e a paz interior; no trabalho, uma abordagem colaborativa trará resultados acima do esperado. Aproveite o fim do dia para renovar as energias ao lado de quem faz bem.</previsao>
+            <cor>Roxo Lavanda</cor>
+            <numero_base>76</numero_base>
+        </dia>
+        <dia numero="5">
+            <previsao>Sua dedicação constante atrai prosperidade e bons resultados; em projetos pessoais, dar o primeiro passo fará toda a diferença agora. Mantenha o equilíbrio entre razão e emoção para fechar o dia em paz.</previsao>
+            <cor>Marrom Terra</cor>
+            <numero_base>87</numero_base>
+        </dia>
+        <dia numero="6">
+            <previsao>A paciência será seu maior trunfo para construir algo sólido; nos estudos e leituras, um novo conhecimento despertará boas ideias. Um momento de silêncio e reflexão trará a clareza que você procura.</previsao>
+            <cor>Azul Turquesa</cor>
+            <numero_base>98</numero_base>
+        </dia>
+        <dia numero="7">
+            <previsao>A serenidade taurina traz segurança para suas escolhas de hoje; na rotina diária, pequenas mudanças de hábito aumentarão sua disposição. Confie no tempo certo das coisas e mantenha o coração tranquilo.</previsao>
+            <cor>Lilás</cor>
+            <numero_base>10</numero_base>
+        </dia>
+        <dia numero="8">
+            <previsao>Vênus ilumina seu caminho com harmonia, beleza e estabilidade; nas finanças, vale organizar prioridades antes de assumir novos compromissos. Cultive a gratidão pelas pequenas vitórias alcançadas ao longo do dia.</previsao>
+            <cor>Laranja Âmbar</cor>
+            <numero_base>21</numero_base>
+        </dia>
+        <dia numero="9">
+            <previsao>Sua persistência começa a gerar frutos concretos e duradouros; no convívio familiar, gestos simples de atenção fortalecerão os laços. Evite dispersões e concentre sua força no que realmente importa.</previsao>
+            <cor>Prata</cor>
+            <numero_base>32</numero_base>
+        </dia>
+        <dia numero="10">
+            <previsao>O senso prático do seu signo ajuda a consolidar planos importantes; nas parcerias profissionais, a transparência garantirá acordos duradouros. Reserve a noite para descansar a mente e celebrar cada avanço.</previsao>
+            <cor>Verde Oliva</cor>
+            <numero_base>43</numero_base>
+        </dia>
+        <dia numero="11">
+            <previsao>Momento propício para valorizar o conforto e a paz interior; em negociações importantes, mantenha a calma e confie nos seus argumentos. Sorria para as boas surpresas que o destino prepara no seu caminho.</previsao>
+            <cor>Azul Celeste</cor>
+            <numero_base>54</numero_base>
+        </dia>
+        <dia numero="12">
+            <previsao>Sua dedicação constante atrai prosperidade e bons resultados; nos relacionamentos, uma conversa sincera esclarecerá antigos mal-entendidos. Aproveite o fim do dia para renovar as energias ao lado de quem faz bem.</previsao>
+            <cor>Coral</cor>
+            <numero_base>65</numero_base>
+        </dia>
+        <dia numero="13">
+            <previsao>A paciência será seu maior trunfo para construir algo sólido; na carreira, seu talento será notado por alguém de grande influência. Mantenha o equilíbrio entre razão e emoção para fechar o dia em paz.</previsao>
+            <cor>Bege Areia</cor>
+            <numero_base>76</numero_base>
+        </dia>
+        <dia numero="14">
+            <previsao>A serenidade taurina traz segurança para suas escolhas de hoje; no campo afetivo, demonstrar seus sentimentos aproximará quem você estima. Um momento de silêncio e reflexão trará a clareza que você procura.</previsao>
+            <cor>Bordô</cor>
+            <numero_base>87</numero_base>
+        </dia>
+        <dia numero="15">
+            <previsao>Vênus ilumina seu caminho com harmonia, beleza e estabilidade; no trabalho, uma abordagem colaborativa trará resultados acima do esperado. Confie no tempo certo das coisas e mantenha o coração tranquilo.</previsao>
+            <cor>Verde Água</cor>
+            <numero_base>98</numero_base>
+        </dia>
+        <dia numero="16">
+            <previsao>Sua persistência começa a gerar frutos concretos e duradouros; em projetos pessoais, dar o primeiro passo fará toda a diferença agora. Cultive a gratidão pelas pequenas vitórias alcançadas ao longo do dia.</previsao>
+            <cor>Magenta</cor>
+            <numero_base>10</numero_base>
+        </dia>
+        <dia numero="17">
+            <previsao>O senso prático do seu signo ajuda a consolidar planos importantes; nos estudos e leituras, um novo conhecimento despertará boas ideias. Evite dispersões e concentre sua força no que realmente importa.</previsao>
+            <cor>Salmão</cor>
+            <numero_base>21</numero_base>
+        </dia>
+        <dia numero="18">
+            <previsao>Momento propício para valorizar o conforto e a paz interior; na rotina diária, pequenas mudanças de hábito aumentarão sua disposição. Reserve a noite para descansar a mente e celebrar cada avanço.</previsao>
+            <cor>Índigo</cor>
+            <numero_base>32</numero_base>
+        </dia>
+        <dia numero="19">
+            <previsao>Sua dedicação constante atrai prosperidade e bons resultados; nas finanças, vale organizar prioridades antes de assumir novos compromissos. Sorria para as boas surpresas que o destino prepara no seu caminho.</previsao>
+            <cor>Cobre</cor>
+            <numero_base>43</numero_base>
+        </dia>
+        <dia numero="20">
+            <previsao>A paciência será seu maior trunfo para construir algo sólido; no convívio familiar, gestos simples de atenção fortalecerão os laços. Aproveite o fim do dia para renovar as energias ao lado de quem faz bem.</previsao>
+            <cor>Amarelo Mostarda</cor>
+            <numero_base>54</numero_base>
+        </dia>
+        <dia numero="21">
+            <previsao>A serenidade taurina traz segurança para suas escolhas de hoje; nas parcerias profissionais, a transparência garantirá acordos duradouros. Mantenha o equilíbrio entre razão e emoção para fechar o dia em paz.</previsao>
+            <cor>Cinza Grafite</cor>
+            <numero_base>65</numero_base>
+        </dia>
+        <dia numero="22">
+            <previsao>Vênus ilumina seu caminho com harmonia, beleza e estabilidade; em negociações importantes, mantenha a calma e confie nos seus argumentos. Um momento de silêncio e reflexão trará a clareza que você procura.</previsao>
+            <cor>Violeta</cor>
+            <numero_base>76</numero_base>
+        </dia>
+        <dia numero="23">
+            <previsao>Sua persistência começa a gerar frutos concretos e duradouros; nos relacionamentos, uma conversa sincera esclarecerá antigos mal-entendidos. Confie no tempo certo das coisas e mantenha o coração tranquilo.</previsao>
+            <cor>Azul Royal</cor>
+            <numero_base>87</numero_base>
+        </dia>
+        <dia numero="24">
+            <previsao>O senso prático do seu signo ajuda a consolidar planos importantes; na carreira, seu talento será notado por alguém de grande influência. Cultive a gratidão pelas pequenas vitórias alcançadas ao longo do dia.</previsao>
+            <cor>Verde Menta</cor>
+            <numero_base>98</numero_base>
+        </dia>
+        <dia numero="25">
+            <previsao>Momento propício para valorizar o conforto e a paz interior; no campo afetivo, demonstrar seus sentimentos aproximará quem você estima. Evite dispersões e concentre sua força no que realmente importa.</previsao>
+            <cor>Terracota</cor>
+            <numero_base>10</numero_base>
+        </dia>
+        <dia numero="26">
+            <previsao>Sua dedicação constante atrai prosperidade e bons resultados; no trabalho, uma abordagem colaborativa trará resultados acima do esperado. Reserve a noite para descansar a mente e celebrar cada avanço.</previsao>
+            <cor>Caramelo</cor>
+            <numero_base>21</numero_base>
+        </dia>
+        <dia numero="27">
+            <previsao>A paciência será seu maior trunfo para construir algo sólido; em projetos pessoais, dar o primeiro passo fará toda a diferença agora. Sorria para as boas surpresas que o destino prepara no seu caminho.</previsao>
+            <cor>Vermelho</cor>
+            <numero_base>32</numero_base>
+        </dia>
+        <dia numero="28">
+            <previsao>A serenidade taurina traz segurança para suas escolhas de hoje; nos estudos e leituras, um novo conhecimento despertará boas ideias. Aproveite o fim do dia para renovar as energias ao lado de quem faz bem.</previsao>
+            <cor>Verde Esmeralda</cor>
+            <numero_base>43</numero_base>
+        </dia>
+        <dia numero="29">
+            <previsao>Vênus ilumina seu caminho com harmonia, beleza e estabilidade; na rotina diária, pequenas mudanças de hábito aumentarão sua disposição. Mantenha o equilíbrio entre razão e emoção para fechar o dia em paz.</previsao>
+            <cor>Amarelo Solar</cor>
+            <numero_base>54</numero_base>
+        </dia>
+        <dia numero="30">
+            <previsao>Sua persistência começa a gerar frutos concretos e duradouros; nas finanças, vale organizar prioridades antes de assumir novos compromissos. Um momento de silêncio e reflexão trará a clareza que você procura.</previsao>
+            <cor>Branco Pérola</cor>
+            <numero_base>65</numero_base>
+        </dia>
+        <dia numero="31">
+            <previsao>O senso prático do seu signo ajuda a consolidar planos importantes; no convívio familiar, gestos simples de atenção fortalecerão os laços. Confie no tempo certo das coisas e mantenha o coração tranquilo.</previsao>
+            <cor>Dourado</cor>
+            <numero_base>76</numero_base>
+        </dia>
+    </signo>
+    <signo>
+        <nome>gemeos</nome>
+        <exibicao>Gêmeos</exibicao>
+        <dia numero="1">
+            <previsao>O diálogo e a troca de ideias trazem descobertas fascinantes; no convívio familiar, gestos simples de atenção fortalecerão os laços. Cultive a gratidão pelas pequenas vitórias alcançadas ao longo do dia.</previsao>
+            <cor>Azul Turquesa</cor>
+            <numero_base>74</numero_base>
+        </dia>
+        <dia numero="2">
+            <previsao>Sua agilidade mental coloca você um passo à frente nos projetos; nas parcerias profissionais, a transparência garantirá acordos duradouros. Evite dispersões e concentre sua força no que realmente importa.</previsao>
+            <cor>Lilás</cor>
+            <numero_base>85</numero_base>
+        </dia>
+        <dia numero="3">
+            <previsao>Novas informações chegam para destravar assuntos que estavam parados; em negociações importantes, mantenha a calma e confie nos seus argumentos. Reserve a noite para descansar a mente e celebrar cada avanço.</previsao>
+            <cor>Laranja Âmbar</cor>
+            <numero_base>96</numero_base>
+        </dia>
+        <dia numero="4">
+            <previsao>O carisma intelectual do seu signo aproxima pessoas interessantes; nos relacionamentos, uma conversa sincera esclarecerá antigos mal-entendidos. Sorria para as boas surpresas que o destino prepara no seu caminho.</previsao>
+            <cor>Prata</cor>
+            <numero_base>8</numero_base>
+        </dia>
+        <dia numero="5">
+            <previsao>Sua capacidade de adaptação transforma imprevistos em oportunidades; na carreira, seu talento será notado por alguém de grande influência. Aproveite o fim do dia para renovar as energias ao lado de quem faz bem.</previsao>
+            <cor>Verde Oliva</cor>
+            <numero_base>19</numero_base>
+        </dia>
+        <dia numero="6">
+            <previsao>Mercúrio aguça sua mente curiosa e seu poder de comunicação; no campo afetivo, demonstrar seus sentimentos aproximará quem você estima. Mantenha o equilíbrio entre razão e emoção para fechar o dia em paz.</previsao>
+            <cor>Azul Celeste</cor>
+            <numero_base>30</numero_base>
+        </dia>
+        <dia numero="7">
+            <previsao>Sua versatilidade geminiana permite enxergar múltiplas soluções hoje; no trabalho, uma abordagem colaborativa trará resultados acima do esperado. Um momento de silêncio e reflexão trará a clareza que você procura.</previsao>
+            <cor>Coral</cor>
+            <numero_base>41</numero_base>
+        </dia>
+        <dia numero="8">
+            <previsao>O diálogo e a troca de ideias trazem descobertas fascinantes; em projetos pessoais, dar o primeiro passo fará toda a diferença agora. Confie no tempo certo das coisas e mantenha o coração tranquilo.</previsao>
+            <cor>Bege Areia</cor>
+            <numero_base>52</numero_base>
+        </dia>
+        <dia numero="9">
+            <previsao>Sua agilidade mental coloca você um passo à frente nos projetos; nos estudos e leituras, um novo conhecimento despertará boas ideias. Cultive a gratidão pelas pequenas vitórias alcançadas ao longo do dia.</previsao>
+            <cor>Bordô</cor>
+            <numero_base>63</numero_base>
+        </dia>
+        <dia numero="10">
+            <previsao>Novas informações chegam para destravar assuntos que estavam parados; na rotina diária, pequenas mudanças de hábito aumentarão sua disposição. Evite dispersões e concentre sua força no que realmente importa.</previsao>
+            <cor>Verde Água</cor>
+            <numero_base>74</numero_base>
+        </dia>
+        <dia numero="11">
+            <previsao>O carisma intelectual do seu signo aproxima pessoas interessantes; nas finanças, vale organizar prioridades antes de assumir novos compromissos. Reserve a noite para descansar a mente e celebrar cada avanço.</previsao>
+            <cor>Magenta</cor>
+            <numero_base>85</numero_base>
+        </dia>
+        <dia numero="12">
+            <previsao>Sua capacidade de adaptação transforma imprevistos em oportunidades; no convívio familiar, gestos simples de atenção fortalecerão os laços. Sorria para as boas surpresas que o destino prepara no seu caminho.</previsao>
+            <cor>Salmão</cor>
+            <numero_base>96</numero_base>
+        </dia>
+        <dia numero="13">
+            <previsao>Mercúrio aguça sua mente curiosa e seu poder de comunicação; nas parcerias profissionais, a transparência garantirá acordos duradouros. Aproveite o fim do dia para renovar as energias ao lado de quem faz bem.</previsao>
+            <cor>Índigo</cor>
+            <numero_base>8</numero_base>
+        </dia>
+        <dia numero="14">
+            <previsao>Sua versatilidade geminiana permite enxergar múltiplas soluções hoje; em negociações importantes, mantenha a calma e confie nos seus argumentos. Mantenha o equilíbrio entre razão e emoção para fechar o dia em paz.</previsao>
+            <cor>Cobre</cor>
+            <numero_base>19</numero_base>
+        </dia>
+        <dia numero="15">
+            <previsao>O diálogo e a troca de ideias trazem descobertas fascinantes; nos relacionamentos, uma conversa sincera esclarecerá antigos mal-entendidos. Um momento de silêncio e reflexão trará a clareza que você procura.</previsao>
+            <cor>Amarelo Mostarda</cor>
+            <numero_base>30</numero_base>
+        </dia>
+        <dia numero="16">
+            <previsao>Sua agilidade mental coloca você um passo à frente nos projetos; na carreira, seu talento será notado por alguém de grande influência. Confie no tempo certo das coisas e mantenha o coração tranquilo.</previsao>
+            <cor>Cinza Grafite</cor>
+            <numero_base>41</numero_base>
+        </dia>
+        <dia numero="17">
+            <previsao>Novas informações chegam para destravar assuntos que estavam parados; no campo afetivo, demonstrar seus sentimentos aproximará quem você estima. Cultive a gratidão pelas pequenas vitórias alcançadas ao longo do dia.</previsao>
+            <cor>Violeta</cor>
+            <numero_base>52</numero_base>
+        </dia>
+        <dia numero="18">
+            <previsao>O carisma intelectual do seu signo aproxima pessoas interessantes; no trabalho, uma abordagem colaborativa trará resultados acima do esperado. Evite dispersões e concentre sua força no que realmente importa.</previsao>
+            <cor>Azul Royal</cor>
+            <numero_base>63</numero_base>
+        </dia>
+        <dia numero="19">
+            <previsao>Sua capacidade de adaptação transforma imprevistos em oportunidades; em projetos pessoais, dar o primeiro passo fará toda a diferença agora. Reserve a noite para descansar a mente e celebrar cada avanço.</previsao>
+            <cor>Verde Menta</cor>
+            <numero_base>74</numero_base>
+        </dia>
+        <dia numero="20">
+            <previsao>Mercúrio aguça sua mente curiosa e seu poder de comunicação; nos estudos e leituras, um novo conhecimento despertará boas ideias. Sorria para as boas surpresas que o destino prepara no seu caminho.</previsao>
+            <cor>Terracota</cor>
+            <numero_base>85</numero_base>
+        </dia>
+        <dia numero="21">
+            <previsao>Sua versatilidade geminiana permite enxergar múltiplas soluções hoje; na rotina diária, pequenas mudanças de hábito aumentarão sua disposição. Aproveite o fim do dia para renovar as energias ao lado de quem faz bem.</previsao>
+            <cor>Caramelo</cor>
+            <numero_base>96</numero_base>
+        </dia>
+        <dia numero="22">
+            <previsao>O diálogo e a troca de ideias trazem descobertas fascinantes; nas finanças, vale organizar prioridades antes de assumir novos compromissos. Mantenha o equilíbrio entre razão e emoção para fechar o dia em paz.</previsao>
+            <cor>Vermelho</cor>
+            <numero_base>8</numero_base>
+        </dia>
+        <dia numero="23">
+            <previsao>Sua agilidade mental coloca você um passo à frente nos projetos; no convívio familiar, gestos simples de atenção fortalecerão os laços. Um momento de silêncio e reflexão trará a clareza que você procura.</previsao>
+            <cor>Verde Esmeralda</cor>
+            <numero_base>19</numero_base>
+        </dia>
+        <dia numero="24">
+            <previsao>Novas informações chegam para destravar assuntos que estavam parados; nas parcerias profissionais, a transparência garantirá acordos duradouros. Confie no tempo certo das coisas e mantenha o coração tranquilo.</previsao>
+            <cor>Amarelo Solar</cor>
+            <numero_base>30</numero_base>
+        </dia>
+        <dia numero="25">
+            <previsao>O carisma intelectual do seu signo aproxima pessoas interessantes; em negociações importantes, mantenha a calma e confie nos seus argumentos. Cultive a gratidão pelas pequenas vitórias alcançadas ao longo do dia.</previsao>
+            <cor>Branco Pérola</cor>
+            <numero_base>41</numero_base>
+        </dia>
+        <dia numero="26">
+            <previsao>Sua capacidade de adaptação transforma imprevistos em oportunidades; nos relacionamentos, uma conversa sincera esclarecerá antigos mal-entendidos. Evite dispersões e concentre sua força no que realmente importa.</previsao>
+            <cor>Dourado</cor>
+            <numero_base>52</numero_base>
+        </dia>
+        <dia numero="27">
+            <previsao>Mercúrio aguça sua mente curiosa e seu poder de comunicação; na carreira, seu talento será notado por alguém de grande influência. Reserve a noite para descansar a mente e celebrar cada avanço.</previsao>
+            <cor>Azul Marinho</cor>
+            <numero_base>63</numero_base>
+        </dia>
+        <dia numero="28">
+            <previsao>Sua versatilidade geminiana permite enxergar múltiplas soluções hoje; no campo afetivo, demonstrar seus sentimentos aproximará quem você estima. Sorria para as boas surpresas que o destino prepara no seu caminho.</previsao>
+            <cor>Rosa Quartzo</cor>
+            <numero_base>74</numero_base>
+        </dia>
+        <dia numero="29">
+            <previsao>O diálogo e a troca de ideias trazem descobertas fascinantes; no trabalho, uma abordagem colaborativa trará resultados acima do esperado. Aproveite o fim do dia para renovar as energias ao lado de quem faz bem.</previsao>
+            <cor>Vinho</cor>
+            <numero_base>85</numero_base>
+        </dia>
+        <dia numero="30">
+            <previsao>Sua agilidade mental coloca você um passo à frente nos projetos; em projetos pessoais, dar o primeiro passo fará toda a diferença agora. Mantenha o equilíbrio entre razão e emoção para fechar o dia em paz.</previsao>
+            <cor>Roxo Lavanda</cor>
+            <numero_base>96</numero_base>
+        </dia>
+        <dia numero="31">
+            <previsao>Novas informações chegam para destravar assuntos que estavam parados; nos estudos e leituras, um novo conhecimento despertará boas ideias. Um momento de silêncio e reflexão trará a clareza que você procura.</previsao>
+            <cor>Marrom Terra</cor>
+            <numero_base>8</numero_base>
+        </dia>
+    </signo>
+    <signo>
+        <nome>cancer</nome>
+        <exibicao>Câncer</exibicao>
+        <dia numero="1">
+            <previsao>Sua percepção emocional capta detalhes que passam despercebidos aos outros; nos estudos e leituras, um novo conhecimento despertará boas ideias. Confie no tempo certo das coisas e mantenha o coração tranquilo.</previsao>
+            <cor>Azul Celeste</cor>
+            <numero_base>6</numero_base>
+        </dia>
+        <dia numero="2">
+            <previsao>O cuidado com quem você ama retorna em forma de gratidão; na rotina diária, pequenas mudanças de hábito aumentarão sua disposição. Cultive a gratidão pelas pequenas vitórias alcançadas ao longo do dia.</previsao>
+            <cor>Coral</cor>
+            <numero_base>17</numero_base>
+        </dia>
+        <dia numero="3">
+            <previsao>Sua memória afetiva inspira decisões sábias e protetoras; nas finanças, vale organizar prioridades antes de assumir novos compromissos. Evite dispersões e concentre sua força no que realmente importa.</previsao>
+            <cor>Bege Areia</cor>
+            <numero_base>28</numero_base>
+        </dia>
+        <dia numero="4">
+            <previsao>Um sentimento de segurança interior guia seus passos com doçura; no convívio familiar, gestos simples de atenção fortalecerão os laços. Reserve a noite para descansar a mente e celebrar cada avanço.</previsao>
+            <cor>Bordô</cor>
+            <numero_base>39</numero_base>
+        </dia>
+        <dia numero="5">
+            <previsao>A Lua amplia sua sensibilidade e fortalece sua intuição hoje; nas parcerias profissionais, a transparência garantirá acordos duradouros. Sorria para as boas surpresas que o destino prepara no seu caminho.</previsao>
+            <cor>Verde Água</cor>
+            <numero_base>50</numero_base>
+        </dia>
+        <dia numero="6">
+            <previsao>Seu coração acolhedor cria um ambiente de paz ao seu redor; em negociações importantes, mantenha a calma e confie nos seus argumentos. Aproveite o fim do dia para renovar as energias ao lado de quem faz bem.</previsao>
+            <cor>Magenta</cor>
+            <numero_base>61</numero_base>
+        </dia>
+        <dia numero="7">
+            <previsao>A conexão com suas raízes e afetos renova suas energias; nos relacionamentos, uma conversa sincera esclarecerá antigos mal-entendidos. Mantenha o equilíbrio entre razão e emoção para fechar o dia em paz.</previsao>
+            <cor>Salmão</cor>
+            <numero_base>72</numero_base>
+        </dia>
+        <dia numero="8">
+            <previsao>Sua percepção emocional capta detalhes que passam despercebidos aos outros; na carreira, seu talento será notado por alguém de grande influência. Um momento de silêncio e reflexão trará a clareza que você procura.</previsao>
+            <cor>Índigo</cor>
+            <numero_base>83</numero_base>
+        </dia>
+        <dia numero="9">
+            <previsao>O cuidado com quem você ama retorna em forma de gratidão; no campo afetivo, demonstrar seus sentimentos aproximará quem você estima. Confie no tempo certo das coisas e mantenha o coração tranquilo.</previsao>
+            <cor>Cobre</cor>
+            <numero_base>94</numero_base>
+        </dia>
+        <dia numero="10">
+            <previsao>Sua memória afetiva inspira decisões sábias e protetoras; no trabalho, uma abordagem colaborativa trará resultados acima do esperado. Cultive a gratidão pelas pequenas vitórias alcançadas ao longo do dia.</previsao>
+            <cor>Amarelo Mostarda</cor>
+            <numero_base>6</numero_base>
+        </dia>
+        <dia numero="11">
+            <previsao>Um sentimento de segurança interior guia seus passos com doçura; em projetos pessoais, dar o primeiro passo fará toda a diferença agora. Evite dispersões e concentre sua força no que realmente importa.</previsao>
+            <cor>Cinza Grafite</cor>
+            <numero_base>17</numero_base>
+        </dia>
+        <dia numero="12">
+            <previsao>A Lua amplia sua sensibilidade e fortalece sua intuição hoje; nos estudos e leituras, um novo conhecimento despertará boas ideias. Reserve a noite para descansar a mente e celebrar cada avanço.</previsao>
+            <cor>Violeta</cor>
+            <numero_base>28</numero_base>
+        </dia>
+        <dia numero="13">
+            <previsao>Seu coração acolhedor cria um ambiente de paz ao seu redor; na rotina diária, pequenas mudanças de hábito aumentarão sua disposição. Sorria para as boas surpresas que o destino prepara no seu caminho.</previsao>
+            <cor>Azul Royal</cor>
+            <numero_base>39</numero_base>
+        </dia>
+        <dia numero="14">
+            <previsao>A conexão com suas raízes e afetos renova suas energias; nas finanças, vale organizar prioridades antes de assumir novos compromissos. Aproveite o fim do dia para renovar as energias ao lado de quem faz bem.</previsao>
+            <cor>Verde Menta</cor>
+            <numero_base>50</numero_base>
+        </dia>
+        <dia numero="15">
+            <previsao>Sua percepção emocional capta detalhes que passam despercebidos aos outros; no convívio familiar, gestos simples de atenção fortalecerão os laços. Mantenha o equilíbrio entre razão e emoção para fechar o dia em paz.</previsao>
+            <cor>Terracota</cor>
+            <numero_base>61</numero_base>
+        </dia>
+        <dia numero="16">
+            <previsao>O cuidado com quem você ama retorna em forma de gratidão; nas parcerias profissionais, a transparência garantirá acordos duradouros. Um momento de silêncio e reflexão trará a clareza que você procura.</previsao>
+            <cor>Caramelo</cor>
+            <numero_base>72</numero_base>
+        </dia>
+        <dia numero="17">
+            <previsao>Sua memória afetiva inspira decisões sábias e protetoras; em negociações importantes, mantenha a calma e confie nos seus argumentos. Confie no tempo certo das coisas e mantenha o coração tranquilo.</previsao>
+            <cor>Vermelho</cor>
+            <numero_base>83</numero_base>
+        </dia>
+        <dia numero="18">
+            <previsao>Um sentimento de segurança interior guia seus passos com doçura; nos relacionamentos, uma conversa sincera esclarecerá antigos mal-entendidos. Cultive a gratidão pelas pequenas vitórias alcançadas ao longo do dia.</previsao>
+            <cor>Verde Esmeralda</cor>
+            <numero_base>94</numero_base>
+        </dia>
+        <dia numero="19">
+            <previsao>A Lua amplia sua sensibilidade e fortalece sua intuição hoje; na carreira, seu talento será notado por alguém de grande influência. Evite dispersões e concentre sua força no que realmente importa.</previsao>
+            <cor>Amarelo Solar</cor>
+            <numero_base>6</numero_base>
+        </dia>
+        <dia numero="20">
+            <previsao>Seu coração acolhedor cria um ambiente de paz ao seu redor; no campo afetivo, demonstrar seus sentimentos aproximará quem você estima. Reserve a noite para descansar a mente e celebrar cada avanço.</previsao>
+            <cor>Branco Pérola</cor>
+            <numero_base>17</numero_base>
+        </dia>
+        <dia numero="21">
+            <previsao>A conexão com suas raízes e afetos renova suas energias; no trabalho, uma abordagem colaborativa trará resultados acima do esperado. Sorria para as boas surpresas que o destino prepara no seu caminho.</previsao>
+            <cor>Dourado</cor>
+            <numero_base>28</numero_base>
+        </dia>
+        <dia numero="22">
+            <previsao>Sua percepção emocional capta detalhes que passam despercebidos aos outros; em projetos pessoais, dar o primeiro passo fará toda a diferença agora. Aproveite o fim do dia para renovar as energias ao lado de quem faz bem.</previsao>
+            <cor>Azul Marinho</cor>
+            <numero_base>39</numero_base>
+        </dia>
+        <dia numero="23">
+            <previsao>O cuidado com quem você ama retorna em forma de gratidão; nos estudos e leituras, um novo conhecimento despertará boas ideias. Mantenha o equilíbrio entre razão e emoção para fechar o dia em paz.</previsao>
+            <cor>Rosa Quartzo</cor>
+            <numero_base>50</numero_base>
+        </dia>
+        <dia numero="24">
+            <previsao>Sua memória afetiva inspira decisões sábias e protetoras; na rotina diária, pequenas mudanças de hábito aumentarão sua disposição. Um momento de silêncio e reflexão trará a clareza que você procura.</previsao>
+            <cor>Vinho</cor>
+            <numero_base>61</numero_base>
+        </dia>
+        <dia numero="25">
+            <previsao>Um sentimento de segurança interior guia seus passos com doçura; nas finanças, vale organizar prioridades antes de assumir novos compromissos. Confie no tempo certo das coisas e mantenha o coração tranquilo.</previsao>
+            <cor>Roxo Lavanda</cor>
+            <numero_base>72</numero_base>
+        </dia>
+        <dia numero="26">
+            <previsao>A Lua amplia sua sensibilidade e fortalece sua intuição hoje; no convívio familiar, gestos simples de atenção fortalecerão os laços. Cultive a gratidão pelas pequenas vitórias alcançadas ao longo do dia.</previsao>
+            <cor>Marrom Terra</cor>
+            <numero_base>83</numero_base>
+        </dia>
+        <dia numero="27">
+            <previsao>Seu coração acolhedor cria um ambiente de paz ao seu redor; nas parcerias profissionais, a transparência garantirá acordos duradouros. Evite dispersões e concentre sua força no que realmente importa.</previsao>
+            <cor>Azul Turquesa</cor>
+            <numero_base>94</numero_base>
+        </dia>
+        <dia numero="28">
+            <previsao>A conexão com suas raízes e afetos renova suas energias; em negociações importantes, mantenha a calma e confie nos seus argumentos. Reserve a noite para descansar a mente e celebrar cada avanço.</previsao>
+            <cor>Lilás</cor>
+            <numero_base>6</numero_base>
+        </dia>
+        <dia numero="29">
+            <previsao>Sua percepção emocional capta detalhes que passam despercebidos aos outros; nos relacionamentos, uma conversa sincera esclarecerá antigos mal-entendidos. Sorria para as boas surpresas que o destino prepara no seu caminho.</previsao>
+            <cor>Laranja Âmbar</cor>
+            <numero_base>17</numero_base>
+        </dia>
+        <dia numero="30">
+            <previsao>O cuidado com quem você ama retorna em forma de gratidão; na carreira, seu talento será notado por alguém de grande influência. Aproveite o fim do dia para renovar as energias ao lado de quem faz bem.</previsao>
+            <cor>Prata</cor>
+            <numero_base>28</numero_base>
+        </dia>
+        <dia numero="31">
+            <previsao>Sua memória afetiva inspira decisões sábias e protetoras; no campo afetivo, demonstrar seus sentimentos aproximará quem você estima. Mantenha o equilíbrio entre razão e emoção para fechar o dia em paz.</previsao>
+            <cor>Verde Oliva</cor>
+            <numero_base>39</numero_base>
+        </dia>
+    </signo>
+    <signo>
+        <nome>leao</nome>
+        <exibicao>Leão</exibicao>
+        <dia numero="1">
+            <previsao>A nobreza de espírito guia suas atitudes com entusiasmo e alegria; no campo afetivo, demonstrar seus sentimentos aproximará quem você estima. Um momento de silêncio e reflexão trará a clareza que você procura.</previsao>
+            <cor>Magenta</cor>
+            <numero_base>37</numero_base>
+        </dia>
+        <dia numero="2">
+            <previsao>Seu talento para liderar pelo exemplo ganha destaque especial hoje; no trabalho, uma abordagem colaborativa trará resultados acima do esperado. Confie no tempo certo das coisas e mantenha o coração tranquilo.</previsao>
+            <cor>Salmão</cor>
+            <numero_base>48</numero_base>
+        </dia>
+        <dia numero="3">
+            <previsao>A paixão pela vida renova suas forças e ilumina seus projetos; em projetos pessoais, dar o primeiro passo fará toda a diferença agora. Cultive a gratidão pelas pequenas vitórias alcançadas ao longo do dia.</previsao>
+            <cor>Índigo</cor>
+            <numero_base>59</numero_base>
+        </dia>
+        <dia numero="4">
+            <previsao>O Sol irradia vitalidade, magnetismo e autoconfiança em sua jornada; nos estudos e leituras, um novo conhecimento despertará boas ideias. Evite dispersões e concentre sua força no que realmente importa.</previsao>
+            <cor>Cobre</cor>
+            <numero_base>70</numero_base>
+        </dia>
+        <dia numero="5">
+            <previsao>Sua generosidade leonina inspira todos que cruzam o seu caminho; na rotina diária, pequenas mudanças de hábito aumentarão sua disposição. Reserve a noite para descansar a mente e celebrar cada avanço.</previsao>
+            <cor>Amarelo Mostarda</cor>
+            <numero_base>81</numero_base>
+        </dia>
+        <dia numero="6">
+            <previsao>O brilho natural do seu signo atrai reconhecimento e admiração; nas finanças, vale organizar prioridades antes de assumir novos compromissos. Sorria para as boas surpresas que o destino prepara no seu caminho.</previsao>
+            <cor>Cinza Grafite</cor>
+            <numero_base>92</numero_base>
+        </dia>
+        <dia numero="7">
+            <previsao>Sua criatividade está em plena expansão para realizar grandes feitos; no convívio familiar, gestos simples de atenção fortalecerão os laços. Aproveite o fim do dia para renovar as energias ao lado de quem faz bem.</previsao>
+            <cor>Violeta</cor>
+            <numero_base>4</numero_base>
+        </dia>
+        <dia numero="8">
+            <previsao>A nobreza de espírito guia suas atitudes com entusiasmo e alegria; nas parcerias profissionais, a transparência garantirá acordos duradouros. Mantenha o equilíbrio entre razão e emoção para fechar o dia em paz.</previsao>
+            <cor>Azul Royal</cor>
+            <numero_base>15</numero_base>
+        </dia>
+        <dia numero="9">
+            <previsao>Seu talento para liderar pelo exemplo ganha destaque especial hoje; em negociações importantes, mantenha a calma e confie nos seus argumentos. Um momento de silêncio e reflexão trará a clareza que você procura.</previsao>
+            <cor>Verde Menta</cor>
+            <numero_base>26</numero_base>
+        </dia>
+        <dia numero="10">
+            <previsao>A paixão pela vida renova suas forças e ilumina seus projetos; nos relacionamentos, uma conversa sincera esclarecerá antigos mal-entendidos. Confie no tempo certo das coisas e mantenha o coração tranquilo.</previsao>
+            <cor>Terracota</cor>
+            <numero_base>37</numero_base>
+        </dia>
+        <dia numero="11">
+            <previsao>O Sol irradia vitalidade, magnetismo e autoconfiança em sua jornada; na carreira, seu talento será notado por alguém de grande influência. Cultive a gratidão pelas pequenas vitórias alcançadas ao longo do dia.</previsao>
+            <cor>Caramelo</cor>
+            <numero_base>48</numero_base>
+        </dia>
+        <dia numero="12">
+            <previsao>Sua generosidade leonina inspira todos que cruzam o seu caminho; no campo afetivo, demonstrar seus sentimentos aproximará quem você estima. Evite dispersões e concentre sua força no que realmente importa.</previsao>
+            <cor>Vermelho</cor>
+            <numero_base>59</numero_base>
+        </dia>
+        <dia numero="13">
+            <previsao>O brilho natural do seu signo atrai reconhecimento e admiração; no trabalho, uma abordagem colaborativa trará resultados acima do esperado. Reserve a noite para descansar a mente e celebrar cada avanço.</previsao>
+            <cor>Verde Esmeralda</cor>
+            <numero_base>70</numero_base>
+        </dia>
+        <dia numero="14">
+            <previsao>Sua criatividade está em plena expansão para realizar grandes feitos; em projetos pessoais, dar o primeiro passo fará toda a diferença agora. Sorria para as boas surpresas que o destino prepara no seu caminho.</previsao>
+            <cor>Amarelo Solar</cor>
+            <numero_base>81</numero_base>
+        </dia>
+        <dia numero="15">
+            <previsao>A nobreza de espírito guia suas atitudes com entusiasmo e alegria; nos estudos e leituras, um novo conhecimento despertará boas ideias. Aproveite o fim do dia para renovar as energias ao lado de quem faz bem.</previsao>
+            <cor>Branco Pérola</cor>
+            <numero_base>92</numero_base>
+        </dia>
+        <dia numero="16">
+            <previsao>Seu talento para liderar pelo exemplo ganha destaque especial hoje; na rotina diária, pequenas mudanças de hábito aumentarão sua disposição. Mantenha o equilíbrio entre razão e emoção para fechar o dia em paz.</previsao>
+            <cor>Dourado</cor>
+            <numero_base>4</numero_base>
+        </dia>
+        <dia numero="17">
+            <previsao>A paixão pela vida renova suas forças e ilumina seus projetos; nas finanças, vale organizar prioridades antes de assumir novos compromissos. Um momento de silêncio e reflexão trará a clareza que você procura.</previsao>
+            <cor>Azul Marinho</cor>
+            <numero_base>15</numero_base>
+        </dia>
+        <dia numero="18">
+            <previsao>O Sol irradia vitalidade, magnetismo e autoconfiança em sua jornada; no convívio familiar, gestos simples de atenção fortalecerão os laços. Confie no tempo certo das coisas e mantenha o coração tranquilo.</previsao>
+            <cor>Rosa Quartzo</cor>
+            <numero_base>26</numero_base>
+        </dia>
+        <dia numero="19">
+            <previsao>Sua generosidade leonina inspira todos que cruzam o seu caminho; nas parcerias profissionais, a transparência garantirá acordos duradouros. Cultive a gratidão pelas pequenas vitórias alcançadas ao longo do dia.</previsao>
+            <cor>Vinho</cor>
+            <numero_base>37</numero_base>
+        </dia>
+        <dia numero="20">
+            <previsao>O brilho natural do seu signo atrai reconhecimento e admiração; em negociações importantes, mantenha a calma e confie nos seus argumentos. Evite dispersões e concentre sua força no que realmente importa.</previsao>
+            <cor>Roxo Lavanda</cor>
+            <numero_base>48</numero_base>
+        </dia>
+        <dia numero="21">
+            <previsao>Sua criatividade está em plena expansão para realizar grandes feitos; nos relacionamentos, uma conversa sincera esclarecerá antigos mal-entendidos. Reserve a noite para descansar a mente e celebrar cada avanço.</previsao>
+            <cor>Marrom Terra</cor>
+            <numero_base>59</numero_base>
+        </dia>
+        <dia numero="22">
+            <previsao>A nobreza de espírito guia suas atitudes com entusiasmo e alegria; na carreira, seu talento será notado por alguém de grande influência. Sorria para as boas surpresas que o destino prepara no seu caminho.</previsao>
+            <cor>Azul Turquesa</cor>
+            <numero_base>70</numero_base>
+        </dia>
+        <dia numero="23">
+            <previsao>Seu talento para liderar pelo exemplo ganha destaque especial hoje; no campo afetivo, demonstrar seus sentimentos aproximará quem você estima. Aproveite o fim do dia para renovar as energias ao lado de quem faz bem.</previsao>
+            <cor>Lilás</cor>
+            <numero_base>81</numero_base>
+        </dia>
+        <dia numero="24">
+            <previsao>A paixão pela vida renova suas forças e ilumina seus projetos; no trabalho, uma abordagem colaborativa trará resultados acima do esperado. Mantenha o equilíbrio entre razão e emoção para fechar o dia em paz.</previsao>
+            <cor>Laranja Âmbar</cor>
+            <numero_base>92</numero_base>
+        </dia>
+        <dia numero="25">
+            <previsao>O Sol irradia vitalidade, magnetismo e autoconfiança em sua jornada; em projetos pessoais, dar o primeiro passo fará toda a diferença agora. Um momento de silêncio e reflexão trará a clareza que você procura.</previsao>
+            <cor>Prata</cor>
+            <numero_base>4</numero_base>
+        </dia>
+        <dia numero="26">
+            <previsao>Sua generosidade leonina inspira todos que cruzam o seu caminho; nos estudos e leituras, um novo conhecimento despertará boas ideias. Confie no tempo certo das coisas e mantenha o coração tranquilo.</previsao>
+            <cor>Verde Oliva</cor>
+            <numero_base>15</numero_base>
+        </dia>
+        <dia numero="27">
+            <previsao>O brilho natural do seu signo atrai reconhecimento e admiração; na rotina diária, pequenas mudanças de hábito aumentarão sua disposição. Cultive a gratidão pelas pequenas vitórias alcançadas ao longo do dia.</previsao>
+            <cor>Azul Celeste</cor>
+            <numero_base>26</numero_base>
+        </dia>
+        <dia numero="28">
+            <previsao>Sua criatividade está em plena expansão para realizar grandes feitos; nas finanças, vale organizar prioridades antes de assumir novos compromissos. Evite dispersões e concentre sua força no que realmente importa.</previsao>
+            <cor>Coral</cor>
+            <numero_base>37</numero_base>
+        </dia>
+        <dia numero="29">
+            <previsao>A nobreza de espírito guia suas atitudes com entusiasmo e alegria; no convívio familiar, gestos simples de atenção fortalecerão os laços. Reserve a noite para descansar a mente e celebrar cada avanço.</previsao>
+            <cor>Bege Areia</cor>
+            <numero_base>48</numero_base>
+        </dia>
+        <dia numero="30">
+            <previsao>Seu talento para liderar pelo exemplo ganha destaque especial hoje; nas parcerias profissionais, a transparência garantirá acordos duradouros. Sorria para as boas surpresas que o destino prepara no seu caminho.</previsao>
+            <cor>Bordô</cor>
+            <numero_base>59</numero_base>
+        </dia>
+        <dia numero="31">
+            <previsao>A paixão pela vida renova suas forças e ilumina seus projetos; em negociações importantes, mantenha a calma e confie nos seus argumentos. Aproveite o fim do dia para renovar as energias ao lado de quem faz bem.</previsao>
+            <cor>Verde Água</cor>
+            <numero_base>70</numero_base>
+        </dia>
+    </signo>
+    <signo>
+        <nome>virgem</nome>
+        <exibicao>Virgem</exibicao>
+        <dia numero="1">
+            <previsao>Sua capacidade de observar minúcias evita erros e otimiza o tempo; em negociações importantes, mantenha a calma e confie nos seus argumentos. Mantenha o equilíbrio entre razão e emoção para fechar o dia em paz.</previsao>
+            <cor>Cinza Grafite</cor>
+            <numero_base>68</numero_base>
+        </dia>
+        <dia numero="2">
+            <previsao>A busca por qualidade e equilíbrio eleva seus resultados; nos relacionamentos, uma conversa sincera esclarecerá antigos mal-entendidos. Um momento de silêncio e reflexão trará a clareza que você procura.</previsao>
+            <cor>Violeta</cor>
+            <numero_base>79</numero_base>
+        </dia>
+        <dia numero="3">
+            <previsao>Seu olhar analítico e cuidadoso encontra a solução perfeita hoje; na carreira, seu talento será notado por alguém de grande influência. Confie no tempo certo das coisas e mantenha o coração tranquilo.</previsao>
+            <cor>Azul Royal</cor>
+            <numero_base>90</numero_base>
+        </dia>
+        <dia numero="4">
+            <previsao>A organização virginiana transforma a rotina em sinônimo de eficiência; no campo afetivo, demonstrar seus sentimentos aproximará quem você estima. Cultive a gratidão pelas pequenas vitórias alcançadas ao longo do dia.</previsao>
+            <cor>Verde Menta</cor>
+            <numero_base>2</numero_base>
+        </dia>
+        <dia numero="5">
+            <previsao>Mercúrio favorece o planejamento detalhado e a clareza de propósito; no trabalho, uma abordagem colaborativa trará resultados acima do esperado. Evite dispersões e concentre sua força no que realmente importa.</previsao>
+            <cor>Terracota</cor>
+            <numero_base>13</numero_base>
+        </dia>
+        <dia numero="6">
+            <previsao>Sua dedicação ao aperfeiçoamento rende elogios e bons frutos; em projetos pessoais, dar o primeiro passo fará toda a diferença agora. Reserve a noite para descansar a mente e celebrar cada avanço.</previsao>
+            <cor>Caramelo</cor>
+            <numero_base>24</numero_base>
+        </dia>
+        <dia numero="7">
+            <previsao>O bom senso e a disciplina trazem tranquilidade para o seu dia; nos estudos e leituras, um novo conhecimento despertará boas ideias. Sorria para as boas surpresas que o destino prepara no seu caminho.</previsao>
+            <cor>Vermelho</cor>
+            <numero_base>35</numero_base>
+        </dia>
+        <dia numero="8">
+            <previsao>Sua capacidade de observar minúcias evita erros e otimiza o tempo; na rotina diária, pequenas mudanças de hábito aumentarão sua disposição. Aproveite o fim do dia para renovar as energias ao lado de quem faz bem.</previsao>
+            <cor>Verde Esmeralda</cor>
+            <numero_base>46</numero_base>
+        </dia>
+        <dia numero="9">
+            <previsao>A busca por qualidade e equilíbrio eleva seus resultados; nas finanças, vale organizar prioridades antes de assumir novos compromissos. Mantenha o equilíbrio entre razão e emoção para fechar o dia em paz.</previsao>
+            <cor>Amarelo Solar</cor>
+            <numero_base>57</numero_base>
+        </dia>
+        <dia numero="10">
+            <previsao>Seu olhar analítico e cuidadoso encontra a solução perfeita hoje; no convívio familiar, gestos simples de atenção fortalecerão os laços. Um momento de silêncio e reflexão trará a clareza que você procura.</previsao>
+            <cor>Branco Pérola</cor>
+            <numero_base>68</numero_base>
+        </dia>
+        <dia numero="11">
+            <previsao>A organização virginiana transforma a rotina em sinônimo de eficiência; nas parcerias profissionais, a transparência garantirá acordos duradouros. Confie no tempo certo das coisas e mantenha o coração tranquilo.</previsao>
+            <cor>Dourado</cor>
+            <numero_base>79</numero_base>
+        </dia>
+        <dia numero="12">
+            <previsao>Mercúrio favorece o planejamento detalhado e a clareza de propósito; em negociações importantes, mantenha a calma e confie nos seus argumentos. Cultive a gratidão pelas pequenas vitórias alcançadas ao longo do dia.</previsao>
+            <cor>Azul Marinho</cor>
+            <numero_base>90</numero_base>
+        </dia>
+        <dia numero="13">
+            <previsao>Sua dedicação ao aperfeiçoamento rende elogios e bons frutos; nos relacionamentos, uma conversa sincera esclarecerá antigos mal-entendidos. Evite dispersões e concentre sua força no que realmente importa.</previsao>
+            <cor>Rosa Quartzo</cor>
+            <numero_base>2</numero_base>
+        </dia>
+        <dia numero="14">
+            <previsao>O bom senso e a disciplina trazem tranquilidade para o seu dia; na carreira, seu talento será notado por alguém de grande influência. Reserve a noite para descansar a mente e celebrar cada avanço.</previsao>
+            <cor>Vinho</cor>
+            <numero_base>13</numero_base>
+        </dia>
+        <dia numero="15">
+            <previsao>Sua capacidade de observar minúcias evita erros e otimiza o tempo; no campo afetivo, demonstrar seus sentimentos aproximará quem você estima. Sorria para as boas surpresas que o destino prepara no seu caminho.</previsao>
+            <cor>Roxo Lavanda</cor>
+            <numero_base>24</numero_base>
+        </dia>
+        <dia numero="16">
+            <previsao>A busca por qualidade e equilíbrio eleva seus resultados; no trabalho, uma abordagem colaborativa trará resultados acima do esperado. Aproveite o fim do dia para renovar as energias ao lado de quem faz bem.</previsao>
+            <cor>Marrom Terra</cor>
+            <numero_base>35</numero_base>
+        </dia>
+        <dia numero="17">
+            <previsao>Seu olhar analítico e cuidadoso encontra a solução perfeita hoje; em projetos pessoais, dar o primeiro passo fará toda a diferença agora. Mantenha o equilíbrio entre razão e emoção para fechar o dia em paz.</previsao>
+            <cor>Azul Turquesa</cor>
+            <numero_base>46</numero_base>
+        </dia>
+        <dia numero="18">
+            <previsao>A organização virginiana transforma a rotina em sinônimo de eficiência; nos estudos e leituras, um novo conhecimento despertará boas ideias. Um momento de silêncio e reflexão trará a clareza que você procura.</previsao>
+            <cor>Lilás</cor>
+            <numero_base>57</numero_base>
+        </dia>
+        <dia numero="19">
+            <previsao>Mercúrio favorece o planejamento detalhado e a clareza de propósito; na rotina diária, pequenas mudanças de hábito aumentarão sua disposição. Confie no tempo certo das coisas e mantenha o coração tranquilo.</previsao>
+            <cor>Laranja Âmbar</cor>
+            <numero_base>68</numero_base>
+        </dia>
+        <dia numero="20">
+            <previsao>Sua dedicação ao aperfeiçoamento rende elogios e bons frutos; nas finanças, vale organizar prioridades antes de assumir novos compromissos. Cultive a gratidão pelas pequenas vitórias alcançadas ao longo do dia.</previsao>
+            <cor>Prata</cor>
+            <numero_base>79</numero_base>
+        </dia>
+        <dia numero="21">
+            <previsao>O bom senso e a disciplina trazem tranquilidade para o seu dia; no convívio familiar, gestos simples de atenção fortalecerão os laços. Evite dispersões e concentre sua força no que realmente importa.</previsao>
+            <cor>Verde Oliva</cor>
+            <numero_base>90</numero_base>
+        </dia>
+        <dia numero="22">
+            <previsao>Sua capacidade de observar minúcias evita erros e otimiza o tempo; nas parcerias profissionais, a transparência garantirá acordos duradouros. Reserve a noite para descansar a mente e celebrar cada avanço.</previsao>
+            <cor>Azul Celeste</cor>
+            <numero_base>2</numero_base>
+        </dia>
+        <dia numero="23">
+            <previsao>A busca por qualidade e equilíbrio eleva seus resultados; em negociações importantes, mantenha a calma e confie nos seus argumentos. Sorria para as boas surpresas que o destino prepara no seu caminho.</previsao>
+            <cor>Coral</cor>
+            <numero_base>13</numero_base>
+        </dia>
+        <dia numero="24">
+            <previsao>Seu olhar analítico e cuidadoso encontra a solução perfeita hoje; nos relacionamentos, uma conversa sincera esclarecerá antigos mal-entendidos. Aproveite o fim do dia para renovar as energias ao lado de quem faz bem.</previsao>
+            <cor>Bege Areia</cor>
+            <numero_base>24</numero_base>
+        </dia>
+        <dia numero="25">
+            <previsao>A organização virginiana transforma a rotina em sinônimo de eficiência; na carreira, seu talento será notado por alguém de grande influência. Mantenha o equilíbrio entre razão e emoção para fechar o dia em paz.</previsao>
+            <cor>Bordô</cor>
+            <numero_base>35</numero_base>
+        </dia>
+        <dia numero="26">
+            <previsao>Mercúrio favorece o planejamento detalhado e a clareza de propósito; no campo afetivo, demonstrar seus sentimentos aproximará quem você estima. Um momento de silêncio e reflexão trará a clareza que você procura.</previsao>
+            <cor>Verde Água</cor>
+            <numero_base>46</numero_base>
+        </dia>
+        <dia numero="27">
+            <previsao>Sua dedicação ao aperfeiçoamento rende elogios e bons frutos; no trabalho, uma abordagem colaborativa trará resultados acima do esperado. Confie no tempo certo das coisas e mantenha o coração tranquilo.</previsao>
+            <cor>Magenta</cor>
+            <numero_base>57</numero_base>
+        </dia>
+        <dia numero="28">
+            <previsao>O bom senso e a disciplina trazem tranquilidade para o seu dia; em projetos pessoais, dar o primeiro passo fará toda a diferença agora. Cultive a gratidão pelas pequenas vitórias alcançadas ao longo do dia.</previsao>
+            <cor>Salmão</cor>
+            <numero_base>68</numero_base>
+        </dia>
+        <dia numero="29">
+            <previsao>Sua capacidade de observar minúcias evita erros e otimiza o tempo; nos estudos e leituras, um novo conhecimento despertará boas ideias. Evite dispersões e concentre sua força no que realmente importa.</previsao>
+            <cor>Índigo</cor>
+            <numero_base>79</numero_base>
+        </dia>
+        <dia numero="30">
+            <previsao>A busca por qualidade e equilíbrio eleva seus resultados; na rotina diária, pequenas mudanças de hábito aumentarão sua disposição. Reserve a noite para descansar a mente e celebrar cada avanço.</previsao>
+            <cor>Cobre</cor>
+            <numero_base>90</numero_base>
+        </dia>
+        <dia numero="31">
+            <previsao>Seu olhar analítico e cuidadoso encontra a solução perfeita hoje; nas finanças, vale organizar prioridades antes de assumir novos compromissos. Sorria para as boas surpresas que o destino prepara no seu caminho.</previsao>
+            <cor>Amarelo Mostarda</cor>
+            <numero_base>2</numero_base>
+        </dia>
+    </signo>
+    <signo>
+        <nome>libra</nome>
+        <exibicao>Libra</exibicao>
+        <dia numero="1">
+            <previsao>A elegância nas atitudes conquista aliados valiosos para seus planos; nas finanças, vale organizar prioridades antes de assumir novos compromissos. Aproveite o fim do dia para renovar as energias ao lado de quem faz bem.</previsao>
+            <cor>Caramelo</cor>
+            <numero_base>99</numero_base>
+        </dia>
+        <dia numero="2">
+            <previsao>A diplomacia libriana promove acordos justos e relações harmoniosas; no convívio familiar, gestos simples de atenção fortalecerão os laços. Mantenha o equilíbrio entre razão e emoção para fechar o dia em paz.</previsao>
+            <cor>Vermelho</cor>
+            <numero_base>11</numero_base>
+        </dia>
+        <dia numero="3">
+            <previsao>Vênus desperta seu senso estético e traz leveza para o cotidiano; nas parcerias profissionais, a transparência garantirá acordos duradouros. Um momento de silêncio e reflexão trará a clareza que você procura.</previsao>
+            <cor>Verde Esmeralda</cor>
+            <numero_base>22</numero_base>
+        </dia>
+        <dia numero="4">
+            <previsao>Sua busca pelo equilíbrio ajuda a pacificar qualquer tensão ao redor; em negociações importantes, mantenha a calma e confie nos seus argumentos. Confie no tempo certo das coisas e mantenha o coração tranquilo.</previsao>
+            <cor>Amarelo Solar</cor>
+            <numero_base>33</numero_base>
+        </dia>
+        <dia numero="5">
+            <previsao>O charme e a gentileza do seu signo abrem portas com facilidade; nos relacionamentos, uma conversa sincera esclarecerá antigos mal-entendidos. Cultive a gratidão pelas pequenas vitórias alcançadas ao longo do dia.</previsao>
+            <cor>Branco Pérola</cor>
+            <numero_base>44</numero_base>
+        </dia>
+        <dia numero="6">
+            <previsao>A cooperação e o diálogo justo fortalecem suas parcerias hoje; na carreira, seu talento será notado por alguém de grande influência. Evite dispersões e concentre sua força no que realmente importa.</previsao>
+            <cor>Dourado</cor>
+            <numero_base>55</numero_base>
+        </dia>
+        <dia numero="7">
+            <previsao>Sua visão ponderada permite enxergar todos os lados de uma questão; no campo afetivo, demonstrar seus sentimentos aproximará quem você estima. Reserve a noite para descansar a mente e celebrar cada avanço.</previsao>
+            <cor>Azul Marinho</cor>
+            <numero_base>66</numero_base>
+        </dia>
+        <dia numero="8">
+            <previsao>A elegância nas atitudes conquista aliados valiosos para seus planos; no trabalho, uma abordagem colaborativa trará resultados acima do esperado. Sorria para as boas surpresas que o destino prepara no seu caminho.</previsao>
+            <cor>Rosa Quartzo</cor>
+            <numero_base>77</numero_base>
+        </dia>
+        <dia numero="9">
+            <previsao>A diplomacia libriana promove acordos justos e relações harmoniosas; em projetos pessoais, dar o primeiro passo fará toda a diferença agora. Aproveite o fim do dia para renovar as energias ao lado de quem faz bem.</previsao>
+            <cor>Vinho</cor>
+            <numero_base>88</numero_base>
+        </dia>
+        <dia numero="10">
+            <previsao>Vênus desperta seu senso estético e traz leveza para o cotidiano; nos estudos e leituras, um novo conhecimento despertará boas ideias. Mantenha o equilíbrio entre razão e emoção para fechar o dia em paz.</previsao>
+            <cor>Roxo Lavanda</cor>
+            <numero_base>99</numero_base>
+        </dia>
+        <dia numero="11">
+            <previsao>Sua busca pelo equilíbrio ajuda a pacificar qualquer tensão ao redor; na rotina diária, pequenas mudanças de hábito aumentarão sua disposição. Um momento de silêncio e reflexão trará a clareza que você procura.</previsao>
+            <cor>Marrom Terra</cor>
+            <numero_base>11</numero_base>
+        </dia>
+        <dia numero="12">
+            <previsao>O charme e a gentileza do seu signo abrem portas com facilidade; nas finanças, vale organizar prioridades antes de assumir novos compromissos. Confie no tempo certo das coisas e mantenha o coração tranquilo.</previsao>
+            <cor>Azul Turquesa</cor>
+            <numero_base>22</numero_base>
+        </dia>
+        <dia numero="13">
+            <previsao>A cooperação e o diálogo justo fortalecem suas parcerias hoje; no convívio familiar, gestos simples de atenção fortalecerão os laços. Cultive a gratidão pelas pequenas vitórias alcançadas ao longo do dia.</previsao>
+            <cor>Lilás</cor>
+            <numero_base>33</numero_base>
+        </dia>
+        <dia numero="14">
+            <previsao>Sua visão ponderada permite enxergar todos os lados de uma questão; nas parcerias profissionais, a transparência garantirá acordos duradouros. Evite dispersões e concentre sua força no que realmente importa.</previsao>
+            <cor>Laranja Âmbar</cor>
+            <numero_base>44</numero_base>
+        </dia>
+        <dia numero="15">
+            <previsao>A elegância nas atitudes conquista aliados valiosos para seus planos; em negociações importantes, mantenha a calma e confie nos seus argumentos. Reserve a noite para descansar a mente e celebrar cada avanço.</previsao>
+            <cor>Prata</cor>
+            <numero_base>55</numero_base>
+        </dia>
+        <dia numero="16">
+            <previsao>A diplomacia libriana promove acordos justos e relações harmoniosas; nos relacionamentos, uma conversa sincera esclarecerá antigos mal-entendidos. Sorria para as boas surpresas que o destino prepara no seu caminho.</previsao>
+            <cor>Verde Oliva</cor>
+            <numero_base>66</numero_base>
+        </dia>
+        <dia numero="17">
+            <previsao>Vênus desperta seu senso estético e traz leveza para o cotidiano; na carreira, seu talento será notado por alguém de grande influência. Aproveite o fim do dia para renovar as energias ao lado de quem faz bem.</previsao>
+            <cor>Azul Celeste</cor>
+            <numero_base>77</numero_base>
+        </dia>
+        <dia numero="18">
+            <previsao>Sua busca pelo equilíbrio ajuda a pacificar qualquer tensão ao redor; no campo afetivo, demonstrar seus sentimentos aproximará quem você estima. Mantenha o equilíbrio entre razão e emoção para fechar o dia em paz.</previsao>
+            <cor>Coral</cor>
+            <numero_base>88</numero_base>
+        </dia>
+        <dia numero="19">
+            <previsao>O charme e a gentileza do seu signo abrem portas com facilidade; no trabalho, uma abordagem colaborativa trará resultados acima do esperado. Um momento de silêncio e reflexão trará a clareza que você procura.</previsao>
+            <cor>Bege Areia</cor>
+            <numero_base>99</numero_base>
+        </dia>
+        <dia numero="20">
+            <previsao>A cooperação e o diálogo justo fortalecem suas parcerias hoje; em projetos pessoais, dar o primeiro passo fará toda a diferença agora. Confie no tempo certo das coisas e mantenha o coração tranquilo.</previsao>
+            <cor>Bordô</cor>
+            <numero_base>11</numero_base>
+        </dia>
+        <dia numero="21">
+            <previsao>Sua visão ponderada permite enxergar todos os lados de uma questão; nos estudos e leituras, um novo conhecimento despertará boas ideias. Cultive a gratidão pelas pequenas vitórias alcançadas ao longo do dia.</previsao>
+            <cor>Verde Água</cor>
+            <numero_base>22</numero_base>
+        </dia>
+        <dia numero="22">
+            <previsao>A elegância nas atitudes conquista aliados valiosos para seus planos; na rotina diária, pequenas mudanças de hábito aumentarão sua disposição. Evite dispersões e concentre sua força no que realmente importa.</previsao>
+            <cor>Magenta</cor>
+            <numero_base>33</numero_base>
+        </dia>
+        <dia numero="23">
+            <previsao>A diplomacia libriana promove acordos justos e relações harmoniosas; nas finanças, vale organizar prioridades antes de assumir novos compromissos. Reserve a noite para descansar a mente e celebrar cada avanço.</previsao>
+            <cor>Salmão</cor>
+            <numero_base>44</numero_base>
+        </dia>
+        <dia numero="24">
+            <previsao>Vênus desperta seu senso estético e traz leveza para o cotidiano; no convívio familiar, gestos simples de atenção fortalecerão os laços. Sorria para as boas surpresas que o destino prepara no seu caminho.</previsao>
+            <cor>Índigo</cor>
+            <numero_base>55</numero_base>
+        </dia>
+        <dia numero="25">
+            <previsao>Sua busca pelo equilíbrio ajuda a pacificar qualquer tensão ao redor; nas parcerias profissionais, a transparência garantirá acordos duradouros. Aproveite o fim do dia para renovar as energias ao lado de quem faz bem.</previsao>
+            <cor>Cobre</cor>
+            <numero_base>66</numero_base>
+        </dia>
+        <dia numero="26">
+            <previsao>O charme e a gentileza do seu signo abrem portas com facilidade; em negociações importantes, mantenha a calma e confie nos seus argumentos. Mantenha o equilíbrio entre razão e emoção para fechar o dia em paz.</previsao>
+            <cor>Amarelo Mostarda</cor>
+            <numero_base>77</numero_base>
+        </dia>
+        <dia numero="27">
+            <previsao>A cooperação e o diálogo justo fortalecem suas parcerias hoje; nos relacionamentos, uma conversa sincera esclarecerá antigos mal-entendidos. Um momento de silêncio e reflexão trará a clareza que você procura.</previsao>
+            <cor>Cinza Grafite</cor>
+            <numero_base>88</numero_base>
+        </dia>
+        <dia numero="28">
+            <previsao>Sua visão ponderada permite enxergar todos os lados de uma questão; na carreira, seu talento será notado por alguém de grande influência. Confie no tempo certo das coisas e mantenha o coração tranquilo.</previsao>
+            <cor>Violeta</cor>
+            <numero_base>99</numero_base>
+        </dia>
+        <dia numero="29">
+            <previsao>A elegância nas atitudes conquista aliados valiosos para seus planos; no campo afetivo, demonstrar seus sentimentos aproximará quem você estima. Cultive a gratidão pelas pequenas vitórias alcançadas ao longo do dia.</previsao>
+            <cor>Azul Royal</cor>
+            <numero_base>11</numero_base>
+        </dia>
+        <dia numero="30">
+            <previsao>A diplomacia libriana promove acordos justos e relações harmoniosas; no trabalho, uma abordagem colaborativa trará resultados acima do esperado. Evite dispersões e concentre sua força no que realmente importa.</previsao>
+            <cor>Verde Menta</cor>
+            <numero_base>22</numero_base>
+        </dia>
+        <dia numero="31">
+            <previsao>Vênus desperta seu senso estético e traz leveza para o cotidiano; em projetos pessoais, dar o primeiro passo fará toda a diferença agora. Reserve a noite para descansar a mente e celebrar cada avanço.</previsao>
+            <cor>Terracota</cor>
+            <numero_base>33</numero_base>
+        </dia>
+    </signo>
+    <signo>
+        <nome>escorpiao</nome>
+        <exibicao>Escorpião</exibicao>
+        <dia numero="1">
+            <previsao>Sua intensidade escorpiana revela verdades importantes e transformadoras; em projetos pessoais, dar o primeiro passo fará toda a diferença agora. Sorria para as boas surpresas que o destino prepara no seu caminho.</previsao>
+            <cor>Dourado</cor>
+            <numero_base>31</numero_base>
+        </dia>
+        <dia numero="2">
+            <previsao>O poder de regeneração do seu signo renova suas metas mais profundas; nos estudos e leituras, um novo conhecimento despertará boas ideias. Aproveite o fim do dia para renovar as energias ao lado de quem faz bem.</previsao>
+            <cor>Azul Marinho</cor>
+            <numero_base>42</numero_base>
+        </dia>
+        <dia numero="3">
+            <previsao>Sua intuição penetrante enxerga além das aparências com precisão; na rotina diária, pequenas mudanças de hábito aumentarão sua disposição. Mantenha o equilíbrio entre razão e emoção para fechar o dia em paz.</previsao>
+            <cor>Rosa Quartzo</cor>
+            <numero_base>53</numero_base>
+        </dia>
+        <dia numero="4">
+            <previsao>Foco absoluto e determinação estratégica marcam cada passo seu hoje; nas finanças, vale organizar prioridades antes de assumir novos compromissos. Um momento de silêncio e reflexão trará a clareza que você procura.</previsao>
+            <cor>Vinho</cor>
+            <numero_base>64</numero_base>
+        </dia>
+        <dia numero="5">
+            <previsao>Seu magnetismo pessoal atrai conexões autênticas e leais; no convívio familiar, gestos simples de atenção fortalecerão os laços. Confie no tempo certo das coisas e mantenha o coração tranquilo.</previsao>
+            <cor>Roxo Lavanda</cor>
+            <numero_base>75</numero_base>
+        </dia>
+        <dia numero="6">
+            <previsao>A coragem para mudar o que não serve mais liberta seu potencial; nas parcerias profissionais, a transparência garantirá acordos duradouros. Cultive a gratidão pelas pequenas vitórias alcançadas ao longo do dia.</previsao>
+            <cor>Marrom Terra</cor>
+            <numero_base>86</numero_base>
+        </dia>
+        <dia numero="7">
+            <previsao>Sua força emocional transforma obstáculos em degraus de evolução; em negociações importantes, mantenha a calma e confie nos seus argumentos. Evite dispersões e concentre sua força no que realmente importa.</previsao>
+            <cor>Azul Turquesa</cor>
+            <numero_base>97</numero_base>
+        </dia>
+        <dia numero="8">
+            <previsao>Sua intensidade escorpiana revela verdades importantes e transformadoras; nos relacionamentos, uma conversa sincera esclarecerá antigos mal-entendidos. Reserve a noite para descansar a mente e celebrar cada avanço.</previsao>
+            <cor>Lilás</cor>
+            <numero_base>9</numero_base>
+        </dia>
+        <dia numero="9">
+            <previsao>O poder de regeneração do seu signo renova suas metas mais profundas; na carreira, seu talento será notado por alguém de grande influência. Sorria para as boas surpresas que o destino prepara no seu caminho.</previsao>
+            <cor>Laranja Âmbar</cor>
+            <numero_base>20</numero_base>
+        </dia>
+        <dia numero="10">
+            <previsao>Sua intuição penetrante enxerga além das aparências com precisão; no campo afetivo, demonstrar seus sentimentos aproximará quem você estima. Aproveite o fim do dia para renovar as energias ao lado de quem faz bem.</previsao>
+            <cor>Prata</cor>
+            <numero_base>31</numero_base>
+        </dia>
+        <dia numero="11">
+            <previsao>Foco absoluto e determinação estratégica marcam cada passo seu hoje; no trabalho, uma abordagem colaborativa trará resultados acima do esperado. Mantenha o equilíbrio entre razão e emoção para fechar o dia em paz.</previsao>
+            <cor>Verde Oliva</cor>
+            <numero_base>42</numero_base>
+        </dia>
+        <dia numero="12">
+            <previsao>Seu magnetismo pessoal atrai conexões autênticas e leais; em projetos pessoais, dar o primeiro passo fará toda a diferença agora. Um momento de silêncio e reflexão trará a clareza que você procura.</previsao>
+            <cor>Azul Celeste</cor>
+            <numero_base>53</numero_base>
+        </dia>
+        <dia numero="13">
+            <previsao>A coragem para mudar o que não serve mais liberta seu potencial; nos estudos e leituras, um novo conhecimento despertará boas ideias. Confie no tempo certo das coisas e mantenha o coração tranquilo.</previsao>
+            <cor>Coral</cor>
+            <numero_base>64</numero_base>
+        </dia>
+        <dia numero="14">
+            <previsao>Sua força emocional transforma obstáculos em degraus de evolução; na rotina diária, pequenas mudanças de hábito aumentarão sua disposição. Cultive a gratidão pelas pequenas vitórias alcançadas ao longo do dia.</previsao>
+            <cor>Bege Areia</cor>
+            <numero_base>75</numero_base>
+        </dia>
+        <dia numero="15">
+            <previsao>Sua intensidade escorpiana revela verdades importantes e transformadoras; nas finanças, vale organizar prioridades antes de assumir novos compromissos. Evite dispersões e concentre sua força no que realmente importa.</previsao>
+            <cor>Bordô</cor>
+            <numero_base>86</numero_base>
+        </dia>
+        <dia numero="16">
+            <previsao>O poder de regeneração do seu signo renova suas metas mais profundas; no convívio familiar, gestos simples de atenção fortalecerão os laços. Reserve a noite para descansar a mente e celebrar cada avanço.</previsao>
+            <cor>Verde Água</cor>
+            <numero_base>97</numero_base>
+        </dia>
+        <dia numero="17">
+            <previsao>Sua intuição penetrante enxerga além das aparências com precisão; nas parcerias profissionais, a transparência garantirá acordos duradouros. Sorria para as boas surpresas que o destino prepara no seu caminho.</previsao>
+            <cor>Magenta</cor>
+            <numero_base>9</numero_base>
+        </dia>
+        <dia numero="18">
+            <previsao>Foco absoluto e determinação estratégica marcam cada passo seu hoje; em negociações importantes, mantenha a calma e confie nos seus argumentos. Aproveite o fim do dia para renovar as energias ao lado de quem faz bem.</previsao>
+            <cor>Salmão</cor>
+            <numero_base>20</numero_base>
+        </dia>
+        <dia numero="19">
+            <previsao>Seu magnetismo pessoal atrai conexões autênticas e leais; nos relacionamentos, uma conversa sincera esclarecerá antigos mal-entendidos. Mantenha o equilíbrio entre razão e emoção para fechar o dia em paz.</previsao>
+            <cor>Índigo</cor>
+            <numero_base>31</numero_base>
+        </dia>
+        <dia numero="20">
+            <previsao>A coragem para mudar o que não serve mais liberta seu potencial; na carreira, seu talento será notado por alguém de grande influência. Um momento de silêncio e reflexão trará a clareza que você procura.</previsao>
+            <cor>Cobre</cor>
+            <numero_base>42</numero_base>
+        </dia>
+        <dia numero="21">
+            <previsao>Sua força emocional transforma obstáculos em degraus de evolução; no campo afetivo, demonstrar seus sentimentos aproximará quem você estima. Confie no tempo certo das coisas e mantenha o coração tranquilo.</previsao>
+            <cor>Amarelo Mostarda</cor>
+            <numero_base>53</numero_base>
+        </dia>
+        <dia numero="22">
+            <previsao>Sua intensidade escorpiana revela verdades importantes e transformadoras; no trabalho, uma abordagem colaborativa trará resultados acima do esperado. Cultive a gratidão pelas pequenas vitórias alcançadas ao longo do dia.</previsao>
+            <cor>Cinza Grafite</cor>
+            <numero_base>64</numero_base>
+        </dia>
+        <dia numero="23">
+            <previsao>O poder de regeneração do seu signo renova suas metas mais profundas; em projetos pessoais, dar o primeiro passo fará toda a diferença agora. Evite dispersões e concentre sua força no que realmente importa.</previsao>
+            <cor>Violeta</cor>
+            <numero_base>75</numero_base>
+        </dia>
+        <dia numero="24">
+            <previsao>Sua intuição penetrante enxerga além das aparências com precisão; nos estudos e leituras, um novo conhecimento despertará boas ideias. Reserve a noite para descansar a mente e celebrar cada avanço.</previsao>
+            <cor>Azul Royal</cor>
+            <numero_base>86</numero_base>
+        </dia>
+        <dia numero="25">
+            <previsao>Foco absoluto e determinação estratégica marcam cada passo seu hoje; na rotina diária, pequenas mudanças de hábito aumentarão sua disposição. Sorria para as boas surpresas que o destino prepara no seu caminho.</previsao>
+            <cor>Verde Menta</cor>
+            <numero_base>97</numero_base>
+        </dia>
+        <dia numero="26">
+            <previsao>Seu magnetismo pessoal atrai conexões autênticas e leais; nas finanças, vale organizar prioridades antes de assumir novos compromissos. Aproveite o fim do dia para renovar as energias ao lado de quem faz bem.</previsao>
+            <cor>Terracota</cor>
+            <numero_base>9</numero_base>
+        </dia>
+        <dia numero="27">
+            <previsao>A coragem para mudar o que não serve mais liberta seu potencial; no convívio familiar, gestos simples de atenção fortalecerão os laços. Mantenha o equilíbrio entre razão e emoção para fechar o dia em paz.</previsao>
+            <cor>Caramelo</cor>
+            <numero_base>20</numero_base>
+        </dia>
+        <dia numero="28">
+            <previsao>Sua força emocional transforma obstáculos em degraus de evolução; nas parcerias profissionais, a transparência garantirá acordos duradouros. Um momento de silêncio e reflexão trará a clareza que você procura.</previsao>
+            <cor>Vermelho</cor>
+            <numero_base>31</numero_base>
+        </dia>
+        <dia numero="29">
+            <previsao>Sua intensidade escorpiana revela verdades importantes e transformadoras; em negociações importantes, mantenha a calma e confie nos seus argumentos. Confie no tempo certo das coisas e mantenha o coração tranquilo.</previsao>
+            <cor>Verde Esmeralda</cor>
+            <numero_base>42</numero_base>
+        </dia>
+        <dia numero="30">
+            <previsao>O poder de regeneração do seu signo renova suas metas mais profundas; nos relacionamentos, uma conversa sincera esclarecerá antigos mal-entendidos. Cultive a gratidão pelas pequenas vitórias alcançadas ao longo do dia.</previsao>
+            <cor>Amarelo Solar</cor>
+            <numero_base>53</numero_base>
+        </dia>
+        <dia numero="31">
+            <previsao>Sua intuição penetrante enxerga além das aparências com precisão; na carreira, seu talento será notado por alguém de grande influência. Evite dispersões e concentre sua força no que realmente importa.</previsao>
+            <cor>Branco Pérola</cor>
+            <numero_base>64</numero_base>
+        </dia>
+    </signo>
+    <signo>
+        <nome>sagitario</nome>
+        <exibicao>Sagitário</exibicao>
+        <dia numero="1">
+            <previsao>O espírito aventureiro sagitariano inspira novas descobertas e aprendizados; na carreira, seu talento será notado por alguém de grande influência. Reserve a noite para descansar a mente e celebrar cada avanço.</previsao>
+            <cor>Marrom Terra</cor>
+            <numero_base>62</numero_base>
+        </dia>
+        <dia numero="2">
+            <previsao>Sua visão ampla e entusiasta contagia o ambiente com esperança; no campo afetivo, demonstrar seus sentimentos aproximará quem você estima. Sorria para as boas surpresas que o destino prepara no seu caminho.</previsao>
+            <cor>Azul Turquesa</cor>
+            <numero_base>73</numero_base>
+        </dia>
+        <dia numero="3">
+            <previsao>O desejo de liberdade e crescimento guia suas melhores escolhas hoje; no trabalho, uma abordagem colaborativa trará resultados acima do esperado. Aproveite o fim do dia para renovar as energias ao lado de quem faz bem.</previsao>
+            <cor>Lilás</cor>
+            <numero_base>84</numero_base>
+        </dia>
+        <dia numero="4">
+            <previsao>A sabedoria adquirida em experiências recentes ilumina seu futuro; em projetos pessoais, dar o primeiro passo fará toda a diferença agora. Mantenha o equilíbrio entre razão e emoção para fechar o dia em paz.</previsao>
+            <cor>Laranja Âmbar</cor>
+            <numero_base>95</numero_base>
+        </dia>
+        <dia numero="5">
+            <previsao>Sua sinceridade bem-humorada fortalece amizades e abre caminhos; nos estudos e leituras, um novo conhecimento despertará boas ideias. Um momento de silêncio e reflexão trará a clareza que você procura.</previsao>
+            <cor>Prata</cor>
+            <numero_base>7</numero_base>
+        </dia>
+        <dia numero="6">
+            <previsao>Novas filosofias e ideias estimulam sua mente inquieta e brilhante; na rotina diária, pequenas mudanças de hábito aumentarão sua disposição. Confie no tempo certo das coisas e mantenha o coração tranquilo.</previsao>
+            <cor>Verde Oliva</cor>
+            <numero_base>18</numero_base>
+        </dia>
+        <dia numero="7">
+            <previsao>Júpiter expande seus horizontes e alimenta seu otimismo natural; nas finanças, vale organizar prioridades antes de assumir novos compromissos. Cultive a gratidão pelas pequenas vitórias alcançadas ao longo do dia.</previsao>
+            <cor>Azul Celeste</cor>
+            <numero_base>29</numero_base>
+        </dia>
+        <dia numero="8">
+            <previsao>O espírito aventureiro sagitariano inspira novas descobertas e aprendizados; no convívio familiar, gestos simples de atenção fortalecerão os laços. Evite dispersões e concentre sua força no que realmente importa.</previsao>
+            <cor>Coral</cor>
+            <numero_base>40</numero_base>
+        </dia>
+        <dia numero="9">
+            <previsao>Sua visão ampla e entusiasta contagia o ambiente com esperança; nas parcerias profissionais, a transparência garantirá acordos duradouros. Reserve a noite para descansar a mente e celebrar cada avanço.</previsao>
+            <cor>Bege Areia</cor>
+            <numero_base>51</numero_base>
+        </dia>
+        <dia numero="10">
+            <previsao>O desejo de liberdade e crescimento guia suas melhores escolhas hoje; em negociações importantes, mantenha a calma e confie nos seus argumentos. Sorria para as boas surpresas que o destino prepara no seu caminho.</previsao>
+            <cor>Bordô</cor>
+            <numero_base>62</numero_base>
+        </dia>
+        <dia numero="11">
+            <previsao>A sabedoria adquirida em experiências recentes ilumina seu futuro; nos relacionamentos, uma conversa sincera esclarecerá antigos mal-entendidos. Aproveite o fim do dia para renovar as energias ao lado de quem faz bem.</previsao>
+            <cor>Verde Água</cor>
+            <numero_base>73</numero_base>
+        </dia>
+        <dia numero="12">
+            <previsao>Sua sinceridade bem-humorada fortalece amizades e abre caminhos; na carreira, seu talento será notado por alguém de grande influência. Mantenha o equilíbrio entre razão e emoção para fechar o dia em paz.</previsao>
+            <cor>Magenta</cor>
+            <numero_base>84</numero_base>
+        </dia>
+        <dia numero="13">
+            <previsao>Novas filosofias e ideias estimulam sua mente inquieta e brilhante; no campo afetivo, demonstrar seus sentimentos aproximará quem você estima. Um momento de silêncio e reflexão trará a clareza que você procura.</previsao>
+            <cor>Salmão</cor>
+            <numero_base>95</numero_base>
+        </dia>
+        <dia numero="14">
+            <previsao>Júpiter expande seus horizontes e alimenta seu otimismo natural; no trabalho, uma abordagem colaborativa trará resultados acima do esperado. Confie no tempo certo das coisas e mantenha o coração tranquilo.</previsao>
+            <cor>Índigo</cor>
+            <numero_base>7</numero_base>
+        </dia>
+        <dia numero="15">
+            <previsao>O espírito aventureiro sagitariano inspira novas descobertas e aprendizados; em projetos pessoais, dar o primeiro passo fará toda a diferença agora. Cultive a gratidão pelas pequenas vitórias alcançadas ao longo do dia.</previsao>
+            <cor>Cobre</cor>
+            <numero_base>18</numero_base>
+        </dia>
+        <dia numero="16">
+            <previsao>Sua visão ampla e entusiasta contagia o ambiente com esperança; nos estudos e leituras, um novo conhecimento despertará boas ideias. Evite dispersões e concentre sua força no que realmente importa.</previsao>
+            <cor>Amarelo Mostarda</cor>
+            <numero_base>29</numero_base>
+        </dia>
+        <dia numero="17">
+            <previsao>O desejo de liberdade e crescimento guia suas melhores escolhas hoje; na rotina diária, pequenas mudanças de hábito aumentarão sua disposição. Reserve a noite para descansar a mente e celebrar cada avanço.</previsao>
+            <cor>Cinza Grafite</cor>
+            <numero_base>40</numero_base>
+        </dia>
+        <dia numero="18">
+            <previsao>A sabedoria adquirida em experiências recentes ilumina seu futuro; nas finanças, vale organizar prioridades antes de assumir novos compromissos. Sorria para as boas surpresas que o destino prepara no seu caminho.</previsao>
+            <cor>Violeta</cor>
+            <numero_base>51</numero_base>
+        </dia>
+        <dia numero="19">
+            <previsao>Sua sinceridade bem-humorada fortalece amizades e abre caminhos; no convívio familiar, gestos simples de atenção fortalecerão os laços. Aproveite o fim do dia para renovar as energias ao lado de quem faz bem.</previsao>
+            <cor>Azul Royal</cor>
+            <numero_base>62</numero_base>
+        </dia>
+        <dia numero="20">
+            <previsao>Novas filosofias e ideias estimulam sua mente inquieta e brilhante; nas parcerias profissionais, a transparência garantirá acordos duradouros. Mantenha o equilíbrio entre razão e emoção para fechar o dia em paz.</previsao>
+            <cor>Verde Menta</cor>
+            <numero_base>73</numero_base>
+        </dia>
+        <dia numero="21">
+            <previsao>Júpiter expande seus horizontes e alimenta seu otimismo natural; em negociações importantes, mantenha a calma e confie nos seus argumentos. Um momento de silêncio e reflexão trará a clareza que você procura.</previsao>
+            <cor>Terracota</cor>
+            <numero_base>84</numero_base>
+        </dia>
+        <dia numero="22">
+            <previsao>O espírito aventureiro sagitariano inspira novas descobertas e aprendizados; nos relacionamentos, uma conversa sincera esclarecerá antigos mal-entendidos. Confie no tempo certo das coisas e mantenha o coração tranquilo.</previsao>
+            <cor>Caramelo</cor>
+            <numero_base>95</numero_base>
+        </dia>
+        <dia numero="23">
+            <previsao>Sua visão ampla e entusiasta contagia o ambiente com esperança; na carreira, seu talento será notado por alguém de grande influência. Cultive a gratidão pelas pequenas vitórias alcançadas ao longo do dia.</previsao>
+            <cor>Vermelho</cor>
+            <numero_base>7</numero_base>
+        </dia>
+        <dia numero="24">
+            <previsao>O desejo de liberdade e crescimento guia suas melhores escolhas hoje; no campo afetivo, demonstrar seus sentimentos aproximará quem você estima. Evite dispersões e concentre sua força no que realmente importa.</previsao>
+            <cor>Verde Esmeralda</cor>
+            <numero_base>18</numero_base>
+        </dia>
+        <dia numero="25">
+            <previsao>A sabedoria adquirida em experiências recentes ilumina seu futuro; no trabalho, uma abordagem colaborativa trará resultados acima do esperado. Reserve a noite para descansar a mente e celebrar cada avanço.</previsao>
+            <cor>Amarelo Solar</cor>
+            <numero_base>29</numero_base>
+        </dia>
+        <dia numero="26">
+            <previsao>Sua sinceridade bem-humorada fortalece amizades e abre caminhos; em projetos pessoais, dar o primeiro passo fará toda a diferença agora. Sorria para as boas surpresas que o destino prepara no seu caminho.</previsao>
+            <cor>Branco Pérola</cor>
+            <numero_base>40</numero_base>
+        </dia>
+        <dia numero="27">
+            <previsao>Novas filosofias e ideias estimulam sua mente inquieta e brilhante; nos estudos e leituras, um novo conhecimento despertará boas ideias. Aproveite o fim do dia para renovar as energias ao lado de quem faz bem.</previsao>
+            <cor>Dourado</cor>
+            <numero_base>51</numero_base>
+        </dia>
+        <dia numero="28">
+            <previsao>Júpiter expande seus horizontes e alimenta seu otimismo natural; na rotina diária, pequenas mudanças de hábito aumentarão sua disposição. Mantenha o equilíbrio entre razão e emoção para fechar o dia em paz.</previsao>
+            <cor>Azul Marinho</cor>
+            <numero_base>62</numero_base>
+        </dia>
+        <dia numero="29">
+            <previsao>O espírito aventureiro sagitariano inspira novas descobertas e aprendizados; nas finanças, vale organizar prioridades antes de assumir novos compromissos. Um momento de silêncio e reflexão trará a clareza que você procura.</previsao>
+            <cor>Rosa Quartzo</cor>
+            <numero_base>73</numero_base>
+        </dia>
+        <dia numero="30">
+            <previsao>Sua visão ampla e entusiasta contagia o ambiente com esperança; no convívio familiar, gestos simples de atenção fortalecerão os laços. Confie no tempo certo das coisas e mantenha o coração tranquilo.</previsao>
+            <cor>Vinho</cor>
+            <numero_base>84</numero_base>
+        </dia>
+        <dia numero="31">
+            <previsao>O desejo de liberdade e crescimento guia suas melhores escolhas hoje; nas parcerias profissionais, a transparência garantirá acordos duradouros. Cultive a gratidão pelas pequenas vitórias alcançadas ao longo do dia.</previsao>
+            <cor>Roxo Lavanda</cor>
+            <numero_base>95</numero_base>
+        </dia>
+    </signo>
+    <signo>
+        <nome>capricornio</nome>
+        <exibicao>Capricórnio</exibicao>
+        <dia numero="1">
+            <previsao>O senso de responsabilidade capricorniano inspira confiança em todos; nas parcerias profissionais, a transparência garantirá acordos duradouros. Evite dispersões e concentre sua força no que realmente importa.</previsao>
+            <cor>Verde Oliva</cor>
+            <numero_base>93</numero_base>
+        </dia>
+        <dia numero="2">
+            <previsao>Sua resiliência permite superar desafios com calma e maestria; em negociações importantes, mantenha a calma e confie nos seus argumentos. Reserve a noite para descansar a mente e celebrar cada avanço.</previsao>
+            <cor>Azul Celeste</cor>
+            <numero_base>5</numero_base>
+        </dia>
+        <dia numero="3">
+            <previsao>O planejamento estratégico de hoje garante conquistas sólidas amanhã; nos relacionamentos, uma conversa sincera esclarecerá antigos mal-entendidos. Sorria para as boas surpresas que o destino prepara no seu caminho.</previsao>
+            <cor>Coral</cor>
+            <numero_base>16</numero_base>
+        </dia>
+        <dia numero="4">
+            <previsao>Sua postura ética e perseverante destaca seu valor profissional; na carreira, seu talento será notado por alguém de grande influência. Aproveite o fim do dia para renovar as energias ao lado de quem faz bem.</previsao>
+            <cor>Bege Areia</cor>
+            <numero_base>27</numero_base>
+        </dia>
+        <dia numero="5">
+            <previsao>A sabedoria prática do seu signo transforma esforço em realização; no campo afetivo, demonstrar seus sentimentos aproximará quem você estima. Mantenha o equilíbrio entre razão e emoção para fechar o dia em paz.</previsao>
+            <cor>Bordô</cor>
+            <numero_base>38</numero_base>
+        </dia>
+        <dia numero="6">
+            <previsao>Saturno recompensa sua maturidade, disciplina e foco no longo prazo; no trabalho, uma abordagem colaborativa trará resultados acima do esperado. Um momento de silêncio e reflexão trará a clareza que você procura.</previsao>
+            <cor>Verde Água</cor>
+            <numero_base>49</numero_base>
+        </dia>
+        <dia numero="7">
+            <previsao>Sua ambição bem direcionada constrói degraus firmes rumo ao sucesso; em projetos pessoais, dar o primeiro passo fará toda a diferença agora. Confie no tempo certo das coisas e mantenha o coração tranquilo.</previsao>
+            <cor>Magenta</cor>
+            <numero_base>60</numero_base>
+        </dia>
+        <dia numero="8">
+            <previsao>O senso de responsabilidade capricorniano inspira confiança em todos; nos estudos e leituras, um novo conhecimento despertará boas ideias. Cultive a gratidão pelas pequenas vitórias alcançadas ao longo do dia.</previsao>
+            <cor>Salmão</cor>
+            <numero_base>71</numero_base>
+        </dia>
+        <dia numero="9">
+            <previsao>Sua resiliência permite superar desafios com calma e maestria; na rotina diária, pequenas mudanças de hábito aumentarão sua disposição. Evite dispersões e concentre sua força no que realmente importa.</previsao>
+            <cor>Índigo</cor>
+            <numero_base>82</numero_base>
+        </dia>
+        <dia numero="10">
+            <previsao>O planejamento estratégico de hoje garante conquistas sólidas amanhã; nas finanças, vale organizar prioridades antes de assumir novos compromissos. Reserve a noite para descansar a mente e celebrar cada avanço.</previsao>
+            <cor>Cobre</cor>
+            <numero_base>93</numero_base>
+        </dia>
+        <dia numero="11">
+            <previsao>Sua postura ética e perseverante destaca seu valor profissional; no convívio familiar, gestos simples de atenção fortalecerão os laços. Sorria para as boas surpresas que o destino prepara no seu caminho.</previsao>
+            <cor>Amarelo Mostarda</cor>
+            <numero_base>5</numero_base>
+        </dia>
+        <dia numero="12">
+            <previsao>A sabedoria prática do seu signo transforma esforço em realização; nas parcerias profissionais, a transparência garantirá acordos duradouros. Aproveite o fim do dia para renovar as energias ao lado de quem faz bem.</previsao>
+            <cor>Cinza Grafite</cor>
+            <numero_base>16</numero_base>
+        </dia>
+        <dia numero="13">
+            <previsao>Saturno recompensa sua maturidade, disciplina e foco no longo prazo; em negociações importantes, mantenha a calma e confie nos seus argumentos. Mantenha o equilíbrio entre razão e emoção para fechar o dia em paz.</previsao>
+            <cor>Violeta</cor>
+            <numero_base>27</numero_base>
+        </dia>
+        <dia numero="14">
+            <previsao>Sua ambição bem direcionada constrói degraus firmes rumo ao sucesso; nos relacionamentos, uma conversa sincera esclarecerá antigos mal-entendidos. Um momento de silêncio e reflexão trará a clareza que você procura.</previsao>
+            <cor>Azul Royal</cor>
+            <numero_base>38</numero_base>
+        </dia>
+        <dia numero="15">
+            <previsao>O senso de responsabilidade capricorniano inspira confiança em todos; na carreira, seu talento será notado por alguém de grande influência. Confie no tempo certo das coisas e mantenha o coração tranquilo.</previsao>
+            <cor>Verde Menta</cor>
+            <numero_base>49</numero_base>
+        </dia>
+        <dia numero="16">
+            <previsao>Sua resiliência permite superar desafios com calma e maestria; no campo afetivo, demonstrar seus sentimentos aproximará quem você estima. Cultive a gratidão pelas pequenas vitórias alcançadas ao longo do dia.</previsao>
+            <cor>Terracota</cor>
+            <numero_base>60</numero_base>
+        </dia>
+        <dia numero="17">
+            <previsao>O planejamento estratégico de hoje garante conquistas sólidas amanhã; no trabalho, uma abordagem colaborativa trará resultados acima do esperado. Evite dispersões e concentre sua força no que realmente importa.</previsao>
+            <cor>Caramelo</cor>
+            <numero_base>71</numero_base>
+        </dia>
+        <dia numero="18">
+            <previsao>Sua postura ética e perseverante destaca seu valor profissional; em projetos pessoais, dar o primeiro passo fará toda a diferença agora. Reserve a noite para descansar a mente e celebrar cada avanço.</previsao>
+            <cor>Vermelho</cor>
+            <numero_base>82</numero_base>
+        </dia>
+        <dia numero="19">
+            <previsao>A sabedoria prática do seu signo transforma esforço em realização; nos estudos e leituras, um novo conhecimento despertará boas ideias. Sorria para as boas surpresas que o destino prepara no seu caminho.</previsao>
+            <cor>Verde Esmeralda</cor>
+            <numero_base>93</numero_base>
+        </dia>
+        <dia numero="20">
+            <previsao>Saturno recompensa sua maturidade, disciplina e foco no longo prazo; na rotina diária, pequenas mudanças de hábito aumentarão sua disposição. Aproveite o fim do dia para renovar as energias ao lado de quem faz bem.</previsao>
+            <cor>Amarelo Solar</cor>
+            <numero_base>5</numero_base>
+        </dia>
+        <dia numero="21">
+            <previsao>Sua ambição bem direcionada constrói degraus firmes rumo ao sucesso; nas finanças, vale organizar prioridades antes de assumir novos compromissos. Mantenha o equilíbrio entre razão e emoção para fechar o dia em paz.</previsao>
+            <cor>Branco Pérola</cor>
+            <numero_base>16</numero_base>
+        </dia>
+        <dia numero="22">
+            <previsao>O senso de responsabilidade capricorniano inspira confiança em todos; no convívio familiar, gestos simples de atenção fortalecerão os laços. Um momento de silêncio e reflexão trará a clareza que você procura.</previsao>
+            <cor>Dourado</cor>
+            <numero_base>27</numero_base>
+        </dia>
+        <dia numero="23">
+            <previsao>Sua resiliência permite superar desafios com calma e maestria; nas parcerias profissionais, a transparência garantirá acordos duradouros. Confie no tempo certo das coisas e mantenha o coração tranquilo.</previsao>
+            <cor>Azul Marinho</cor>
+            <numero_base>38</numero_base>
+        </dia>
+        <dia numero="24">
+            <previsao>O planejamento estratégico de hoje garante conquistas sólidas amanhã; em negociações importantes, mantenha a calma e confie nos seus argumentos. Cultive a gratidão pelas pequenas vitórias alcançadas ao longo do dia.</previsao>
+            <cor>Rosa Quartzo</cor>
+            <numero_base>49</numero_base>
+        </dia>
+        <dia numero="25">
+            <previsao>Sua postura ética e perseverante destaca seu valor profissional; nos relacionamentos, uma conversa sincera esclarecerá antigos mal-entendidos. Evite dispersões e concentre sua força no que realmente importa.</previsao>
+            <cor>Vinho</cor>
+            <numero_base>60</numero_base>
+        </dia>
+        <dia numero="26">
+            <previsao>A sabedoria prática do seu signo transforma esforço em realização; na carreira, seu talento será notado por alguém de grande influência. Reserve a noite para descansar a mente e celebrar cada avanço.</previsao>
+            <cor>Roxo Lavanda</cor>
+            <numero_base>71</numero_base>
+        </dia>
+        <dia numero="27">
+            <previsao>Saturno recompensa sua maturidade, disciplina e foco no longo prazo; no campo afetivo, demonstrar seus sentimentos aproximará quem você estima. Sorria para as boas surpresas que o destino prepara no seu caminho.</previsao>
+            <cor>Marrom Terra</cor>
+            <numero_base>82</numero_base>
+        </dia>
+        <dia numero="28">
+            <previsao>Sua ambição bem direcionada constrói degraus firmes rumo ao sucesso; no trabalho, uma abordagem colaborativa trará resultados acima do esperado. Aproveite o fim do dia para renovar as energias ao lado de quem faz bem.</previsao>
+            <cor>Azul Turquesa</cor>
+            <numero_base>93</numero_base>
+        </dia>
+        <dia numero="29">
+            <previsao>O senso de responsabilidade capricorniano inspira confiança em todos; em projetos pessoais, dar o primeiro passo fará toda a diferença agora. Mantenha o equilíbrio entre razão e emoção para fechar o dia em paz.</previsao>
+            <cor>Lilás</cor>
+            <numero_base>5</numero_base>
+        </dia>
+        <dia numero="30">
+            <previsao>Sua resiliência permite superar desafios com calma e maestria; nos estudos e leituras, um novo conhecimento despertará boas ideias. Um momento de silêncio e reflexão trará a clareza que você procura.</previsao>
+            <cor>Laranja Âmbar</cor>
+            <numero_base>16</numero_base>
+        </dia>
+        <dia numero="31">
+            <previsao>O planejamento estratégico de hoje garante conquistas sólidas amanhã; na rotina diária, pequenas mudanças de hábito aumentarão sua disposição. Confie no tempo certo das coisas e mantenha o coração tranquilo.</previsao>
+            <cor>Prata</cor>
+            <numero_base>27</numero_base>
+        </dia>
+    </signo>
+    <signo>
+        <nome>aquario</nome>
+        <exibicao>Aquário</exibicao>
+        <dia numero="1">
+            <previsao>Ideias criativas surgem quando você compartilha projetos com o grupo; na rotina diária, pequenas mudanças de hábito aumentarão sua disposição. Cultive a gratidão pelas pequenas vitórias alcançadas ao longo do dia.</previsao>
+            <cor>Verde Água</cor>
+            <numero_base>25</numero_base>
+        </dia>
+        <dia numero="2">
+            <previsao>Sua autenticidade atrai pessoas que compartilham dos mesmos ideais; nas finanças, vale organizar prioridades antes de assumir novos compromissos. Evite dispersões e concentre sua força no que realmente importa.</previsao>
+            <cor>Magenta</cor>
+            <numero_base>36</numero_base>
+        </dia>
+        <dia numero="3">
+            <previsao>O futuro se desenha de forma promissora graças à sua mente aberta; no convívio familiar, gestos simples de atenção fortalecerão os laços. Reserve a noite para descansar a mente e celebrar cada avanço.</previsao>
+            <cor>Salmão</cor>
+            <numero_base>47</numero_base>
+        </dia>
+        <dia numero="4">
+            <previsao>Sua independência intelectual permite inovar com ousadia e equilíbrio; nas parcerias profissionais, a transparência garantirá acordos duradouros. Sorria para as boas surpresas que o destino prepara no seu caminho.</previsao>
+            <cor>Índigo</cor>
+            <numero_base>58</numero_base>
+        </dia>
+        <dia numero="5">
+            <previsao>Urano desperta insights originais e soluções à frente do seu tempo; em negociações importantes, mantenha a calma e confie nos seus argumentos. Aproveite o fim do dia para renovar as energias ao lado de quem faz bem.</previsao>
+            <cor>Cobre</cor>
+            <numero_base>69</numero_base>
+        </dia>
+        <dia numero="6">
+            <previsao>Sua visão humanitária e inovadora inspira mudanças positivas ao redor; nos relacionamentos, uma conversa sincera esclarecerá antigos mal-entendidos. Mantenha o equilíbrio entre razão e emoção para fechar o dia em paz.</previsao>
+            <cor>Amarelo Mostarda</cor>
+            <numero_base>80</numero_base>
+        </dia>
+        <dia numero="7">
+            <previsao>A liberdade de pensamento aquariana rompe padrões limitantes hoje; na carreira, seu talento será notado por alguém de grande influência. Um momento de silêncio e reflexão trará a clareza que você procura.</previsao>
+            <cor>Cinza Grafite</cor>
+            <numero_base>91</numero_base>
+        </dia>
+        <dia numero="8">
+            <previsao>Ideias criativas surgem quando você compartilha projetos com o grupo; no campo afetivo, demonstrar seus sentimentos aproximará quem você estima. Confie no tempo certo das coisas e mantenha o coração tranquilo.</previsao>
+            <cor>Violeta</cor>
+            <numero_base>3</numero_base>
+        </dia>
+        <dia numero="9">
+            <previsao>Sua autenticidade atrai pessoas que compartilham dos mesmos ideais; no trabalho, uma abordagem colaborativa trará resultados acima do esperado. Cultive a gratidão pelas pequenas vitórias alcançadas ao longo do dia.</previsao>
+            <cor>Azul Royal</cor>
+            <numero_base>14</numero_base>
+        </dia>
+        <dia numero="10">
+            <previsao>O futuro se desenha de forma promissora graças à sua mente aberta; em projetos pessoais, dar o primeiro passo fará toda a diferença agora. Evite dispersões e concentre sua força no que realmente importa.</previsao>
+            <cor>Verde Menta</cor>
+            <numero_base>25</numero_base>
+        </dia>
+        <dia numero="11">
+            <previsao>Sua independência intelectual permite inovar com ousadia e equilíbrio; nos estudos e leituras, um novo conhecimento despertará boas ideias. Reserve a noite para descansar a mente e celebrar cada avanço.</previsao>
+            <cor>Terracota</cor>
+            <numero_base>36</numero_base>
+        </dia>
+        <dia numero="12">
+            <previsao>Urano desperta insights originais e soluções à frente do seu tempo; na rotina diária, pequenas mudanças de hábito aumentarão sua disposição. Sorria para as boas surpresas que o destino prepara no seu caminho.</previsao>
+            <cor>Caramelo</cor>
+            <numero_base>47</numero_base>
+        </dia>
+        <dia numero="13">
+            <previsao>Sua visão humanitária e inovadora inspira mudanças positivas ao redor; nas finanças, vale organizar prioridades antes de assumir novos compromissos. Aproveite o fim do dia para renovar as energias ao lado de quem faz bem.</previsao>
+            <cor>Vermelho</cor>
+            <numero_base>58</numero_base>
+        </dia>
+        <dia numero="14">
+            <previsao>A liberdade de pensamento aquariana rompe padrões limitantes hoje; no convívio familiar, gestos simples de atenção fortalecerão os laços. Mantenha o equilíbrio entre razão e emoção para fechar o dia em paz.</previsao>
+            <cor>Verde Esmeralda</cor>
+            <numero_base>69</numero_base>
+        </dia>
+        <dia numero="15">
+            <previsao>Ideias criativas surgem quando você compartilha projetos com o grupo; nas parcerias profissionais, a transparência garantirá acordos duradouros. Um momento de silêncio e reflexão trará a clareza que você procura.</previsao>
+            <cor>Amarelo Solar</cor>
+            <numero_base>80</numero_base>
+        </dia>
+        <dia numero="16">
+            <previsao>Sua autenticidade atrai pessoas que compartilham dos mesmos ideais; em negociações importantes, mantenha a calma e confie nos seus argumentos. Confie no tempo certo das coisas e mantenha o coração tranquilo.</previsao>
+            <cor>Branco Pérola</cor>
+            <numero_base>91</numero_base>
+        </dia>
+        <dia numero="17">
+            <previsao>O futuro se desenha de forma promissora graças à sua mente aberta; nos relacionamentos, uma conversa sincera esclarecerá antigos mal-entendidos. Cultive a gratidão pelas pequenas vitórias alcançadas ao longo do dia.</previsao>
+            <cor>Dourado</cor>
+            <numero_base>3</numero_base>
+        </dia>
+        <dia numero="18">
+            <previsao>Sua independência intelectual permite inovar com ousadia e equilíbrio; na carreira, seu talento será notado por alguém de grande influência. Evite dispersões e concentre sua força no que realmente importa.</previsao>
+            <cor>Azul Marinho</cor>
+            <numero_base>14</numero_base>
+        </dia>
+        <dia numero="19">
+            <previsao>Urano desperta insights originais e soluções à frente do seu tempo; no campo afetivo, demonstrar seus sentimentos aproximará quem você estima. Reserve a noite para descansar a mente e celebrar cada avanço.</previsao>
+            <cor>Rosa Quartzo</cor>
+            <numero_base>25</numero_base>
+        </dia>
+        <dia numero="20">
+            <previsao>Sua visão humanitária e inovadora inspira mudanças positivas ao redor; no trabalho, uma abordagem colaborativa trará resultados acima do esperado. Sorria para as boas surpresas que o destino prepara no seu caminho.</previsao>
+            <cor>Vinho</cor>
+            <numero_base>36</numero_base>
+        </dia>
+        <dia numero="21">
+            <previsao>A liberdade de pensamento aquariana rompe padrões limitantes hoje; em projetos pessoais, dar o primeiro passo fará toda a diferença agora. Aproveite o fim do dia para renovar as energias ao lado de quem faz bem.</previsao>
+            <cor>Roxo Lavanda</cor>
+            <numero_base>47</numero_base>
+        </dia>
+        <dia numero="22">
+            <previsao>Ideias criativas surgem quando você compartilha projetos com o grupo; nos estudos e leituras, um novo conhecimento despertará boas ideias. Mantenha o equilíbrio entre razão e emoção para fechar o dia em paz.</previsao>
+            <cor>Marrom Terra</cor>
+            <numero_base>58</numero_base>
+        </dia>
+        <dia numero="23">
+            <previsao>Sua autenticidade atrai pessoas que compartilham dos mesmos ideais; na rotina diária, pequenas mudanças de hábito aumentarão sua disposição. Um momento de silêncio e reflexão trará a clareza que você procura.</previsao>
+            <cor>Azul Turquesa</cor>
+            <numero_base>69</numero_base>
+        </dia>
+        <dia numero="24">
+            <previsao>O futuro se desenha de forma promissora graças à sua mente aberta; nas finanças, vale organizar prioridades antes de assumir novos compromissos. Confie no tempo certo das coisas e mantenha o coração tranquilo.</previsao>
+            <cor>Lilás</cor>
+            <numero_base>80</numero_base>
+        </dia>
+        <dia numero="25">
+            <previsao>Sua independência intelectual permite inovar com ousadia e equilíbrio; no convívio familiar, gestos simples de atenção fortalecerão os laços. Cultive a gratidão pelas pequenas vitórias alcançadas ao longo do dia.</previsao>
+            <cor>Laranja Âmbar</cor>
+            <numero_base>91</numero_base>
+        </dia>
+        <dia numero="26">
+            <previsao>Urano desperta insights originais e soluções à frente do seu tempo; nas parcerias profissionais, a transparência garantirá acordos duradouros. Evite dispersões e concentre sua força no que realmente importa.</previsao>
+            <cor>Prata</cor>
+            <numero_base>3</numero_base>
+        </dia>
+        <dia numero="27">
+            <previsao>Sua visão humanitária e inovadora inspira mudanças positivas ao redor; em negociações importantes, mantenha a calma e confie nos seus argumentos. Reserve a noite para descansar a mente e celebrar cada avanço.</previsao>
+            <cor>Verde Oliva</cor>
+            <numero_base>14</numero_base>
+        </dia>
+        <dia numero="28">
+            <previsao>A liberdade de pensamento aquariana rompe padrões limitantes hoje; nos relacionamentos, uma conversa sincera esclarecerá antigos mal-entendidos. Sorria para as boas surpresas que o destino prepara no seu caminho.</previsao>
+            <cor>Azul Celeste</cor>
+            <numero_base>25</numero_base>
+        </dia>
+        <dia numero="29">
+            <previsao>Ideias criativas surgem quando você compartilha projetos com o grupo; na carreira, seu talento será notado por alguém de grande influência. Aproveite o fim do dia para renovar as energias ao lado de quem faz bem.</previsao>
+            <cor>Coral</cor>
+            <numero_base>36</numero_base>
+        </dia>
+        <dia numero="30">
+            <previsao>Sua autenticidade atrai pessoas que compartilham dos mesmos ideais; no campo afetivo, demonstrar seus sentimentos aproximará quem você estima. Mantenha o equilíbrio entre razão e emoção para fechar o dia em paz.</previsao>
+            <cor>Bege Areia</cor>
+            <numero_base>47</numero_base>
+        </dia>
+        <dia numero="31">
+            <previsao>O futuro se desenha de forma promissora graças à sua mente aberta; no trabalho, uma abordagem colaborativa trará resultados acima do esperado. Um momento de silêncio e reflexão trará a clareza que você procura.</previsao>
+            <cor>Bordô</cor>
+            <numero_base>58</numero_base>
+        </dia>
+    </signo>
+    <signo>
+        <nome>peixes</nome>
+        <exibicao>Peixes</exibicao>
+        <dia numero="1">
+            <previsao>Ouvir a voz interior traz respostas serenas para antigas dúvidas; no trabalho, uma abordagem colaborativa trará resultados acima do esperado. Confie no tempo certo das coisas e mantenha o coração tranquilo.</previsao>
+            <cor>Amarelo Mostarda</cor>
+            <numero_base>56</numero_base>
+        </dia>
+        <dia numero="2">
+            <previsao>A fluidez emocional ajuda você a contornar pressões com sabedoria; em projetos pessoais, dar o primeiro passo fará toda a diferença agora. Cultive a gratidão pelas pequenas vitórias alcançadas ao longo do dia.</previsao>
+            <cor>Cinza Grafite</cor>
+            <numero_base>67</numero_base>
+        </dia>
+        <dia numero="3">
+            <previsao>Sonhos e intuições caminham juntos para guiar suas escolhas de hoje; nos estudos e leituras, um novo conhecimento despertará boas ideias. Evite dispersões e concentre sua força no que realmente importa.</previsao>
+            <cor>Violeta</cor>
+            <numero_base>78</numero_base>
+        </dia>
+        <dia numero="4">
+            <previsao>Netuno eleva sua inspiração artística, empatia e conexão espiritual; na rotina diária, pequenas mudanças de hábito aumentarão sua disposição. Reserve a noite para descansar a mente e celebrar cada avanço.</previsao>
+            <cor>Azul Royal</cor>
+            <numero_base>89</numero_base>
+        </dia>
+        <dia numero="5">
+            <previsao>Sua sensibilidade pisciana percebe sutilezas que enriquecem o dia; nas finanças, vale organizar prioridades antes de assumir novos compromissos. Sorria para as boas surpresas que o destino prepara no seu caminho.</previsao>
+            <cor>Verde Menta</cor>
+            <numero_base>1</numero_base>
+        </dia>
+        <dia numero="6">
+            <previsao>A imaginação fértil do seu signo abre caminhos criativos inesperados; no convívio familiar, gestos simples de atenção fortalecerão os laços. Aproveite o fim do dia para renovar as energias ao lado de quem faz bem.</previsao>
+            <cor>Terracota</cor>
+            <numero_base>12</numero_base>
+        </dia>
+        <dia numero="7">
+            <previsao>Sua compaixão e generosidade tocam positivamente a vida de alguém; nas parcerias profissionais, a transparência garantirá acordos duradouros. Mantenha o equilíbrio entre razão e emoção para fechar o dia em paz.</previsao>
+            <cor>Caramelo</cor>
+            <numero_base>23</numero_base>
+        </dia>
+        <dia numero="8">
+            <previsao>Ouvir a voz interior traz respostas serenas para antigas dúvidas; em negociações importantes, mantenha a calma e confie nos seus argumentos. Um momento de silêncio e reflexão trará a clareza que você procura.</previsao>
+            <cor>Vermelho</cor>
+            <numero_base>34</numero_base>
+        </dia>
+        <dia numero="9">
+            <previsao>A fluidez emocional ajuda você a contornar pressões com sabedoria; nos relacionamentos, uma conversa sincera esclarecerá antigos mal-entendidos. Confie no tempo certo das coisas e mantenha o coração tranquilo.</previsao>
+            <cor>Verde Esmeralda</cor>
+            <numero_base>45</numero_base>
+        </dia>
+        <dia numero="10">
+            <previsao>Sonhos e intuições caminham juntos para guiar suas escolhas de hoje; na carreira, seu talento será notado por alguém de grande influência. Cultive a gratidão pelas pequenas vitórias alcançadas ao longo do dia.</previsao>
+            <cor>Amarelo Solar</cor>
+            <numero_base>56</numero_base>
+        </dia>
+        <dia numero="11">
+            <previsao>Netuno eleva sua inspiração artística, empatia e conexão espiritual; no campo afetivo, demonstrar seus sentimentos aproximará quem você estima. Evite dispersões e concentre sua força no que realmente importa.</previsao>
+            <cor>Branco Pérola</cor>
+            <numero_base>67</numero_base>
+        </dia>
+        <dia numero="12">
+            <previsao>Sua sensibilidade pisciana percebe sutilezas que enriquecem o dia; no trabalho, uma abordagem colaborativa trará resultados acima do esperado. Reserve a noite para descansar a mente e celebrar cada avanço.</previsao>
+            <cor>Dourado</cor>
+            <numero_base>78</numero_base>
+        </dia>
+        <dia numero="13">
+            <previsao>A imaginação fértil do seu signo abre caminhos criativos inesperados; em projetos pessoais, dar o primeiro passo fará toda a diferença agora. Sorria para as boas surpresas que o destino prepara no seu caminho.</previsao>
+            <cor>Azul Marinho</cor>
+            <numero_base>89</numero_base>
+        </dia>
+        <dia numero="14">
+            <previsao>Sua compaixão e generosidade tocam positivamente a vida de alguém; nos estudos e leituras, um novo conhecimento despertará boas ideias. Aproveite o fim do dia para renovar as energias ao lado de quem faz bem.</previsao>
+            <cor>Rosa Quartzo</cor>
+            <numero_base>1</numero_base>
+        </dia>
+        <dia numero="15">
+            <previsao>Ouvir a voz interior traz respostas serenas para antigas dúvidas; na rotina diária, pequenas mudanças de hábito aumentarão sua disposição. Mantenha o equilíbrio entre razão e emoção para fechar o dia em paz.</previsao>
+            <cor>Vinho</cor>
+            <numero_base>12</numero_base>
+        </dia>
+        <dia numero="16">
+            <previsao>A fluidez emocional ajuda você a contornar pressões com sabedoria; nas finanças, vale organizar prioridades antes de assumir novos compromissos. Um momento de silêncio e reflexão trará a clareza que você procura.</previsao>
+            <cor>Roxo Lavanda</cor>
+            <numero_base>23</numero_base>
+        </dia>
+        <dia numero="17">
+            <previsao>Sonhos e intuições caminham juntos para guiar suas escolhas de hoje; no convívio familiar, gestos simples de atenção fortalecerão os laços. Confie no tempo certo das coisas e mantenha o coração tranquilo.</previsao>
+            <cor>Marrom Terra</cor>
+            <numero_base>34</numero_base>
+        </dia>
+        <dia numero="18">
+            <previsao>Netuno eleva sua inspiração artística, empatia e conexão espiritual; nas parcerias profissionais, a transparência garantirá acordos duradouros. Cultive a gratidão pelas pequenas vitórias alcançadas ao longo do dia.</previsao>
+            <cor>Azul Turquesa</cor>
+            <numero_base>45</numero_base>
+        </dia>
+        <dia numero="19">
+            <previsao>Sua sensibilidade pisciana percebe sutilezas que enriquecem o dia; em negociações importantes, mantenha a calma e confie nos seus argumentos. Evite dispersões e concentre sua força no que realmente importa.</previsao>
+            <cor>Lilás</cor>
+            <numero_base>56</numero_base>
+        </dia>
+        <dia numero="20">
+            <previsao>A imaginação fértil do seu signo abre caminhos criativos inesperados; nos relacionamentos, uma conversa sincera esclarecerá antigos mal-entendidos. Reserve a noite para descansar a mente e celebrar cada avanço.</previsao>
+            <cor>Laranja Âmbar</cor>
+            <numero_base>67</numero_base>
+        </dia>
+        <dia numero="21">
+            <previsao>Sua compaixão e generosidade tocam positivamente a vida de alguém; na carreira, seu talento será notado por alguém de grande influência. Sorria para as boas surpresas que o destino prepara no seu caminho.</previsao>
+            <cor>Prata</cor>
+            <numero_base>78</numero_base>
+        </dia>
+        <dia numero="22">
+            <previsao>Ouvir a voz interior traz respostas serenas para antigas dúvidas; no campo afetivo, demonstrar seus sentimentos aproximará quem você estima. Aproveite o fim do dia para renovar as energias ao lado de quem faz bem.</previsao>
+            <cor>Verde Oliva</cor>
+            <numero_base>89</numero_base>
+        </dia>
+        <dia numero="23">
+            <previsao>A fluidez emocional ajuda você a contornar pressões com sabedoria; no trabalho, uma abordagem colaborativa trará resultados acima do esperado. Mantenha o equilíbrio entre razão e emoção para fechar o dia em paz.</previsao>
+            <cor>Azul Celeste</cor>
+            <numero_base>1</numero_base>
+        </dia>
+        <dia numero="24">
+            <previsao>Sonhos e intuições caminham juntos para guiar suas escolhas de hoje; em projetos pessoais, dar o primeiro passo fará toda a diferença agora. Um momento de silêncio e reflexão trará a clareza que você procura.</previsao>
+            <cor>Coral</cor>
+            <numero_base>12</numero_base>
+        </dia>
+        <dia numero="25">
+            <previsao>Netuno eleva sua inspiração artística, empatia e conexão espiritual; nos estudos e leituras, um novo conhecimento despertará boas ideias. Confie no tempo certo das coisas e mantenha o coração tranquilo.</previsao>
+            <cor>Bege Areia</cor>
+            <numero_base>23</numero_base>
+        </dia>
+        <dia numero="26">
+            <previsao>Sua sensibilidade pisciana percebe sutilezas que enriquecem o dia; na rotina diária, pequenas mudanças de hábito aumentarão sua disposição. Cultive a gratidão pelas pequenas vitórias alcançadas ao longo do dia.</previsao>
+            <cor>Bordô</cor>
+            <numero_base>34</numero_base>
+        </dia>
+        <dia numero="27">
+            <previsao>A imaginação fértil do seu signo abre caminhos criativos inesperados; nas finanças, vale organizar prioridades antes de assumir novos compromissos. Evite dispersões e concentre sua força no que realmente importa.</previsao>
+            <cor>Verde Água</cor>
+            <numero_base>45</numero_base>
+        </dia>
+        <dia numero="28">
+            <previsao>Sua compaixão e generosidade tocam positivamente a vida de alguém; no convívio familiar, gestos simples de atenção fortalecerão os laços. Reserve a noite para descansar a mente e celebrar cada avanço.</previsao>
+            <cor>Magenta</cor>
+            <numero_base>56</numero_base>
+        </dia>
+        <dia numero="29">
+            <previsao>Ouvir a voz interior traz respostas serenas para antigas dúvidas; nas parcerias profissionais, a transparência garantirá acordos duradouros. Sorria para as boas surpresas que o destino prepara no seu caminho.</previsao>
+            <cor>Salmão</cor>
+            <numero_base>67</numero_base>
+        </dia>
+        <dia numero="30">
+            <previsao>A fluidez emocional ajuda você a contornar pressões com sabedoria; em negociações importantes, mantenha a calma e confie nos seus argumentos. Aproveite o fim do dia para renovar as energias ao lado de quem faz bem.</previsao>
+            <cor>Índigo</cor>
+            <numero_base>78</numero_base>
+        </dia>
+        <dia numero="31">
+            <previsao>Sonhos e intuições caminham juntos para guiar suas escolhas de hoje; nos relacionamentos, uma conversa sincera esclarecerá antigos mal-entendidos. Mantenha o equilíbrio entre razão e emoção para fechar o dia em paz.</previsao>
+            <cor>Cobre</cor>
+            <numero_base>89</numero_base>
+        </dia>
+    </signo>
+</horoscopo>
