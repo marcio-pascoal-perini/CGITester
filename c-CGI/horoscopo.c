@@ -46,7 +46,6 @@ static const SignoInfo LISTA_SIGNOS[] = {
 
 #define TOTAL_SIGNOS (sizeof(LISTA_SIGNOS) / sizeof(LISTA_SIGNOS[0]))
 
-/* Remove acentos comuns (UTF-8 e CP850/CP1252) e converte para minusculas */
 void normalizar_string(const char *entrada, char *saida, size_t max_len)
 {
     size_t i = 0, j = 0;
@@ -101,7 +100,6 @@ void normalizar_string(const char *entrada, char *saida, size_t max_len)
         }
         else if (c >= 0x80)
         {
-            /* Tratamento para codepages Windows (CP850 / CP1252) */
             switch (c)
             {
             case 0xA0:
@@ -177,7 +175,6 @@ void normalizar_string(const char *entrada, char *saida, size_t max_len)
     saida[j] = 0;
 }
 
-/* Decodifica string no formato application/x-www-form-urlencoded */
 void url_decode(const char *src, char *dest, size_t max_len)
 {
     size_t i = 0, j = 0;
@@ -202,7 +199,6 @@ void url_decode(const char *src, char *dest, size_t max_len)
     dest[j] = 0;
 }
 
-/* Extrai um parametro especifico (ex: "signo") de uma query string CGI */
 int obter_parametro_cgi(const char *query, const char *chave, char *saida, size_t max_len)
 {
     if (!query || !chave)
@@ -234,7 +230,6 @@ int obter_parametro_cgi(const char *query, const char *chave, char *saida, size_
     return 0;
 }
 
-/* Extrai o conteudo entre <tag> e </tag> dentro de um intervalo [inicio_bloco, fim_bloco) */
 int extrair_tag_xml_intervalo(const char *inicio_bloco, const char *fim_bloco, const char *tag, char *destino, size_t max_len)
 {
     char tag_abertura[64], tag_fechamento[64];
@@ -261,7 +256,6 @@ int extrair_tag_xml_intervalo(const char *inicio_bloco, const char *fim_bloco, c
     return 1;
 }
 
-/* Imprime texto escapando caracteres especiais HTML para evitar XSS */
 void imprimir_html_escapado(const char *texto)
 {
     for (size_t i = 0; texto[i] != 0; i++)
@@ -294,7 +288,6 @@ void imprimir_html_escapado(const char *texto)
     }
 }
 
-/* Retorna um codigo hexadecimal CSS aproximado para a cor do dia */
 const char *obter_hex_cor(const char *cor_nome)
 {
     char cor_norm[64] = {0};
@@ -365,7 +358,6 @@ const char *obter_hex_cor(const char *cor_nome)
     return "#fbbf24";
 }
 
-/* Tenta localizar e abrir horoscopo.xml no diretorio atual, pai ou do executavel */
 FILE *abrir_arquivo_xml(const char *argv0)
 {
     FILE *f = fopen("horoscopo.xml", "rb");
@@ -406,7 +398,6 @@ int main(int argc, char *argv[])
     char signo_busca[128] = {0};
     char query_buffer[512] = {0};
 
-    /* 1. Leitura dos dados via CGI (GET / POST) ou argumento de linha de comando */
     const char *metodo = getenv("REQUEST_METHOD");
     const char *query_env = getenv("QUERY_STRING");
 
@@ -430,7 +421,6 @@ int main(int argc, char *argv[])
     {
         if (!obter_parametro_cgi(query_env, "signo", entrada_usuario, sizeof(entrada_usuario)))
         {
-            /* Caso a query string seja apenas ?aries sem chave=valor */
             if (strchr(query_env, '=') == NULL)
             {
                 url_decode(query_env, entrada_usuario, sizeof(entrada_usuario));
@@ -449,11 +439,9 @@ int main(int argc, char *argv[])
     struct tm *data_hoje = localtime(&agora);
     int dia_atual = data_hoje->tm_mday;
 
-    /* Cabecalho HTTP obrigatorio do padrao CGI */
     puts("Content-Type: text/html; charset=UTF-8");
     puts("");
 
-    /* Inicio do HTML compacto projetado para caber dentro de um pequeno iFRAME */
     puts("<!DOCTYPE html>");
     puts("<html lang='pt-BR'>");
     puts("<head>");
@@ -492,7 +480,6 @@ int main(int argc, char *argv[])
     puts("<body>");
     puts("<div class='widget'>");
 
-    /* Cabecalho com titulo e data atual */
     puts("  <div>");
     puts("    <div class='header'>");
     puts("      <div class='title'>&#10024; Horóscopo do Dia</div>");
@@ -503,7 +490,6 @@ int main(int argc, char *argv[])
     fputc(10, stdout);
     puts("    </div>");
 
-    /* Formulario de selecao de signo dentro do proprio iFRAME */
     puts("    <form class='form-bar' method='get' action=''>");
     puts("      <select name='signo' aria-label='Selecione o seu signo' onchange='this.form.submit()'>");
     puts("        <option value=''>Escolha seu signo...</option>");
@@ -524,7 +510,6 @@ int main(int argc, char *argv[])
 
     puts("  <div class='content'>");
 
-    /* Se nenhum signo foi solicitado ainda, mostra estado inicial amigavel */
     if (strlen(signo_busca) == 0)
     {
         puts("    <div class='empty-state'>");
@@ -538,7 +523,6 @@ int main(int argc, char *argv[])
         return 0;
     }
 
-    /* Carrega o arquivo XML de horoscopo */
     FILE *arquivo = abrir_arquivo_xml(argv[0]);
     if (!arquivo)
     {
@@ -606,7 +590,6 @@ int main(int argc, char *argv[])
                     }
                 }
 
-                /* Busca o bloco correspondente ao dia do mes (1 a 31) */
                 const char *cursor_dia = cursor;
                 while ((cursor_dia = strstr(cursor_dia, "<dia")) != NULL && cursor_dia < fim_signo)
                 {
