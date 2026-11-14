@@ -1,0 +1,79 @@
+[
+	{
+		"ID": "ID",
+		"Description": "Description",
+		"ExecutableFile": "Executable file",
+		"InitialHTMLFile": "Initial HTML file",
+		"Argument01": "Argument 01",
+		"Argument02": "Argument 02",
+		"Argument03": "Argument 03",
+		"Argument04": "Argument 04",
+		"Argument05": "Argument 05"
+	},
+	{
+		"ID": "3",
+		"Description": "Censo 2022 - População (Python)",
+		"ExecutableFile": "/usr/local/bin/python3.15",
+		"InitialHTMLFile": "/home/marcio/Trabalho/projeto-cgi-tester/CGITester/python-CGI/index.html",
+		"Argument01": "/home/marcio/Trabalho/projeto-cgi-tester/CGITester/python-CGI/map.py",
+		"Argument02": "",
+		"Argument03": "",
+		"Argument04": "",
+		"Argument05": ""
+	},
+	{
+		"ID": "4",
+		"Description": "DBF Viewer (C)",
+		"ExecutableFile": "/home/marcio/Trabalho/projeto-cgi-tester/CGITester/c-CGI/DBF-Viewer.exe",
+		"InitialHTMLFile": "/home/marcio/Trabalho/projeto-cgi-tester/CGITester/c-CGI/index.html",
+		"Argument01": "",
+		"Argument02": "",
+		"Argument03": "",
+		"Argument04": "",
+		"Argument05": ""
+	},
+	{
+		"ID": "5",
+		"Description": "Censo 2022 - População (Python)",
+		"ExecutableFile": "/usr/local/bin/python3.15",
+		"InitialHTMLFile": "/home/marcio/Trabalho/projeto-cgi-tester/CGITester/python-CGI/index.html",
+		"Argument01": "/home/marcio/Trabalho/projeto-cgi-tester/CGITester/python-CGI/graphic.py",
+		"Argument02": "",
+		"Argument03": "",
+		"Argument04": "",
+		"Argument05": ""
+	},
+	{
+		"ID": "6",
+		"Description": "Censo 2022 - População (R)",
+		"ExecutableFile": "/usr/bin/Rscript",
+		"InitialHTMLFile": "/home/marcio/Trabalho/projeto-cgi-tester/CGITester/r-CGI/index.html",
+		"Argument01": "--silent",
+		"Argument02": "--vanilla",
+		"Argument03": "--quiet",
+		"Argument04": "/home/marcio/Trabalho/projeto-cgi-tester/CGITester/r-CGI/script.R",
+		"Argument05": ""
+	},
+	{
+		"ID": "7",
+		"Description": "DBF Viewer 2 (C)",
+		"ExecutableFile": "/home/marcio/Trabalho/projeto-cgi-tester/CGITester/c-CGI/DBF-Viewer-2.exe",
+		"InitialHTMLFile": "",
+		"Argument01": "",
+		"Argument02": "",
+		"Argument03": "",
+		"Argument04": "",
+		"Argument05": ""
+	},
+	{
+		"ID": "8",
+		"Description": "Horóscopo do Dia (C)",
+		"ExecutableFile": "/home/marcio/Trabalho/projeto-cgi-tester/CGITester/c-CGI/horoscopo.exe",
+		"InitialHTMLFile": "/home/marcio/Trabalho/projeto-cgi-tester/CGITester/c-CGI/horoscopo.html",
+		"Argument01": "",
+		"Argument02": "",
+		"Argument03": "",
+		"Argument04": "",
+		"Argument05": ""
+	}
+]

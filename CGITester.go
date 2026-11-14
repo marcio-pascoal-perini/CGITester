@@ -183,7 +183,7 @@ func index(w http.ResponseWriter, r *http.Request) {
         <head>
 	    <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title></title>
+        <title>CGITester</title>
 		<style></style>
 		<script>
 		window.onload=function(){
@@ -217,7 +217,7 @@ func index(w http.ResponseWriter, r *http.Request) {
         <head>
 	    <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title></title>
+        <title>CGITester</title>
 		<style>
         input[type="submit"] {height: 25px; width: 200px;}
 		</style>
@@ -289,7 +289,7 @@ func main() {
 	}()
 	loadParameters()
 	application := app.New()
-	window = application.NewWindow("start")
+	window = application.NewWindow("CGITester")
 	faviconPath := filepath.Join(basePath(), "assets", "images", "favicon.png")
 	resource, err := fyne.LoadResourceFromPath(faviconPath)
 	if err == nil {
