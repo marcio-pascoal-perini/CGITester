@@ -8,7 +8,7 @@ A desktop application developed in the Go programming language. The purpose of t
 
 A brief description of your CGI script/code. This information is optional.
 
-#### ExecutableFile:
+#### Executable file:
 
 Path to the CGI script/code file or to the program that will execute the CGI script/code on your operating system. Examples:
 
@@ -26,7 +26,7 @@ C:\Program Files\R\R-4.6.1\bin\Rscript.exe
 /usr/bin/Rscript
 ```
 
-#### InitialHTMLFile:
+#### Initial HTML file:
 
 Path to the HTML file containing the FORM structured for calling the CGI script/code. This information is optional. Important detail: The FORM's ACTION property must always be set to "/registered-cgi/". Examples:
 
@@ -50,7 +50,7 @@ Path to the HTML file containing the FORM structured for calling the CGI script/
 </form>
 ```
 
-#### Argument01, Argument02, Argument03, Argument04 and Argument05:
+#### Argument 01, Argument 02, Argument 03, Argument 04 and Argument 05:
 
 Arguments required for the execution of the CGI script/code, or for the program that will execute the CGI script/code. This information is optional. Examples:
 
