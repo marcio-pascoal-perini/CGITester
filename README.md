@@ -68,6 +68,6 @@ Arguments required for the execution of the CGI script/code, or for the program 
 
 ### Browser Button
 
-If all the information is correct, pressing this button will display a browser that renders the initial HTML file; otherwise, the CGI script/code will be called directly.
+If all the information is correct, pressing this button will open a browser that renders the initial HTML file (if one has been specified); otherwise, the CGI script/code will be called directly.
 
 ![](assets/images/i002.png?raw=true "horoscope")
