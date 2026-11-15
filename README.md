@@ -50,7 +50,7 @@ Path to the HTML file containing the FORM structured for calling the CGI script/
 </form>
 ```
 
-#### Argument01, Argument02, Argument03, Argument04 e Argument05:
+#### Argument01, Argument02, Argument03, Argument04 and Argument05:
 
 Arguments required for the execution of the CGI script/code, or for the program that will execute the CGI script/code. This information is optional. Examples:
 
@@ -68,6 +68,6 @@ Arguments required for the execution of the CGI script/code, or for the program 
 
 ### Browser Button
 
-If all the information is correct, pressing this button will open a browser that renders the specified HTML file; otherwise, the script/CGI code will be called directly.
+If all the information is correct, pressing this button will display a browser that renders the initial HTML file; otherwise, the CGI script/code will be called directly.
 
 ![](assets/images/i002.png?raw=true "horoscope")
