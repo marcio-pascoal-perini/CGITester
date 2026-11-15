@@ -1,16 +1,5 @@
 [
 	{
-		"ID": "ID",
-		"Description": "Description",
-		"ExecutableFile": "Executable file",
-		"InitialHTMLFile": "Initial HTML file",
-		"Argument01": "Argument 01",
-		"Argument02": "Argument 02",
-		"Argument03": "Argument 03",
-		"Argument04": "Argument 04",
-		"Argument05": "Argument 05"
-	},
-	{
 		"ID": "3",
 		"Description": "Censo 2022 - População (Python)",
 		"ExecutableFile": "C:/Users/xpto/AppData/Local/Programs/Python/Python315/pythonw.exe",
