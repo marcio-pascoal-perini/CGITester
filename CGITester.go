@@ -46,6 +46,7 @@ import (
 	"fyne.io/fyne/v2/layout"
 	"fyne.io/fyne/v2/theme"
 	"fyne.io/fyne/v2/widget"
+
 	"github.com/zserge/lorca"
 )
 
@@ -230,9 +231,9 @@ func index(w http.ResponseWriter, r *http.Request) {
 		<br>
 		<form id="form2" name="form2" action="/registered-cgi/" method="POST">
         <input id="input2" name="input2" type="submit" value="Start with POST">
-        </form>		
-		</body>	
-		</html>	
+        </form>
+		</body>
+		</html>
 		`
 		w.Write([]byte(s))
 	} else {
@@ -249,15 +250,15 @@ func loadParameters() {
 			newFile, _ := os.Create(filename)
 			newFile.WriteString(`
 			[{
-            	"ID": "ID",
-            	"Description": "Description",
-            	"ExecutableFile": "Executable file",
-            	"InitialHTMLFile": "Initial HTML file",
-            	"Argument01": "Argument 01",
-            	"Argument02": "Argument 02",
-            	"Argument03": "Argument 03",
-            	"Argument04": "Argument 04",
-            	"Argument05": "Argument 05"
+            	"ID": "1",
+            	"Description": "Description of ID 1",
+            	"ExecutableFile": "",
+            	"InitialHTMLFile": "",
+            	"Argument01": "",
+            	"Argument02": "",
+            	"Argument03": "",
+            	"Argument04": "",
+            	"Argument05": ""
             }]
 			`)
 			newFile.Close()
@@ -329,16 +330,37 @@ func main() {
 				label.SetText(parameter.Argument05)
 			}
 			label.Alignment = fyne.TextAlignLeading
-			if id.Row == 0 {
-				label.TextStyle = fyne.TextStyle{Bold: true}
-			} else {
-				label.TextStyle = fyne.TextStyle{Bold: false}
-			}
+			label.TextStyle = fyne.TextStyle{Bold: false}
 			label.Refresh()
 		},
 	)
+	headers := []string{
+		"ID",
+		"Description",
+		"Executable file",
+		"Initial HTML file",
+		"Argument 01",
+		"Argument 02",
+		"Argument 03",
+		"Argument 04",
+		"Argument 05",
+	}
+	tableInfo.CreateHeader = func() fyne.CanvasObject {
+		label := widget.NewLabel("Header")
+		label.TextStyle = fyne.TextStyle{Bold: true}
+		return label
+	}
+	tableInfo.UpdateHeader = func(id widget.TableCellID, template fyne.CanvasObject) {
+		label := template.(*widget.Label)
+		if id.Col >= 0 && id.Col < len(headers) {
+			label.SetText(headers[id.Col])
+		} else {
+			label.SetText(fmt.Sprintf("Col %d", id.Col))
+		}
+	}
+	tableInfo.ShowHeaderRow = true
 	for i := range parameters {
-		if i > 0 {
+		if i > -1 {
 			tableInfo.SetRowHeight(i, 80)
 		}
 	}
@@ -355,7 +377,7 @@ func main() {
 	}
 
 	buttonBrowser := widget.NewButton("Browser", func() {
-		if selectedRow > 0 && selectedColumn == 0 {
+		if selectedRow >= 0 && selectedColumn == 0 && len(parameters) > 0 {
 			closeBrowser()
 			openBrowser()
 		} else {
@@ -368,7 +390,7 @@ func main() {
 	})
 
 	buttonDelete := widget.NewButton("Delete", func() {
-		if selectedRow > 0 && selectedColumn == 0 {
+		if selectedRow >= 0 && selectedColumn == 0 && len(parameters) > 0 {
 			parameter := parameters[selectedRow]
 			dialog.ShowConfirm(
 				"Confirm",
@@ -398,7 +420,7 @@ func main() {
 	})
 
 	buttonEdit := widget.NewButton("Edit", func() {
-		if selectedRow > 0 && selectedColumn == 0 {
+		if selectedRow >= 0 && selectedColumn == 0 && len(parameters) > 0 {
 			parameter := parameters[selectedRow]
 			description := widget.NewEntry()
 			description.SetText(parameter.Description)
@@ -551,9 +573,12 @@ func main() {
 		}
 		d := dialog.NewForm("New parameter", "Ok", "Cancel", items, func(b bool) {
 			if b {
-				id, err := strconv.Atoi(parameters[len(parameters)-1].ID)
-				if err != nil {
-					id = 0
+				var id int
+				if len(parameters) > 0 {
+					id, err = strconv.Atoi(parameters[len(parameters)-1].ID)
+					if err != nil {
+						id = 0
+					}
 				}
 				id++
 				parameter := &Parameter{
